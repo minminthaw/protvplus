@@ -39,10 +39,47 @@ http://3shop.link:25461/admin/admin/8
 http://3shop.link:25461/admin/admin/11
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="" group-title="All Sports",UFC Fight Pass
 http://3shop.link:25461/admin/admin/12
+
+#EXTINF:-1 tvg-id="" tvg-name="True Sport 1" tvg-logo="" group-title="All Sports",True Sport 1
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="True Sport 2" tvg-logo="" group-title="All Sports",True Sport 2
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport 3" tvg-logo="" group-title="All Sports",True Sport 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport 4" tvg-logo="" group-title="All Sports",True Sport 4
+https://www.livedoomovies.com/02_2sporthd4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport 5" tvg-logo="" group-title="All Sports",True Sport 5
+https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport 6" tvg-logo="" group-title="All Sports",True Sport 6
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Sport 7" tvg-logo="" group-title="All Sports",True Sport 7
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UK: Euro Sport 1" tvg-logo="" group-title="All Sports",UK: Euro Sport 1
+https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8	
+#EXTINF:-1 tvg-id="" tvg-name="UK: Euro Sport 2" tvg-logo="" group-title="All Sports",UK: Euro Sport 2
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8	
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1" tvg-logo="" group-title="All Sports",RMC Sport 1
+http://3shop.link:25461/admin/admin/294
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2" tvg-logo="" group-title="All Sports",RMC Sport 2
+http://3shop.link:25461/admin/admin/295
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4" tvg-logo="" group-title="All Sports",RMC Sport 4
+http://3shop.link:25461/admin/admin/297
+#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 5" tvg-logo="" group-title="All Sports",RMC Sport 5
+http://3shop.link:25461/admin/admin/298
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 1" tvg-logo="" group-title="All Sports",Astro Super Sport 1
+http://3shop.link:25461/admin/admin/299
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 2" tvg-logo="" group-title="All Sports",Astro Super Sport 2
+http://3shop.link:25461/admin/admin/300
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 3" tvg-logo="" group-title="All Sports",Astro Super Sport 3
+http://3shop.link:25461/admin/admin/301
+#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 4" tvg-logo="" group-title="All Sports",Astro Super Sport 4
+http://3shop.link:25461/admin/admin/302
+
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1 HD" tvg-logo="" group-title="All Sports",Sony Ten 1 HD
 http://3shop.link:25461/admin/admin/15
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="All Sports",Sony Ten 3 HD
 http://3shop.link:25461/admin/admin/17
+
 #EXTINF:-1 tvg-id="" tvg-name="IN: Movies Now" tvg-logo="" group-title="Movies",IN: Movies Now
 http://3shop.link:25461/admin/admin/18
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="" group-title="Entertainment",WWE Network
@@ -55,8 +92,12 @@ http://3shop.link:25461/admin/admin/28
 http://3shop.link:25461/admin/admin/29
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-logo="" group-title="Entertainment",CCTV 5+
 http://3shop.link:25461/admin/admin/30
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-logo="" group-title="Entertainment",CCTV 4
+http://3shop.link:25461/admin/admin/44
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-logo="" group-title="Entertainment",CCTV 3
 http://3shop.link:25461/admin/admin/31
+#EXTINF:-1 tvg-id="" tvg-name="CCTV 2" tvg-logo="" group-title="Entertainment",CCTV 2
+http://220.158.149.14:9999/live/TV00000000000000000007@HHZT;LIVE
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 1" tvg-logo="" group-title="Entertainment",CCTV 1
 http://3shop.link:25461/admin/admin/32
 #EXTINF:-1 tvg-id="" tvg-name="Sony Wah" tvg-logo="" group-title="Entertainment",Sony Wah
@@ -77,8 +118,6 @@ http://3shop.link:25461/admin/admin/41
 http://3shop.link:25461/admin/admin/42
 #EXTINF:-1 tvg-id="" tvg-name="WOW TV" tvg-logo="" group-title="Movies",WOW TV
 http://3shop.link:25461/admin/admin/43
-#EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-logo="" group-title="Movies",CCTV 4
-http://3shop.link:25461/admin/admin/44
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="" group-title="All Sports",TVRI
 http://3shop.link:25461/admin/admin/45
 #EXTINF:-1 tvg-id="" tvg-name="&Flix HD" tvg-logo="" group-title="Movies",&Flix HD
@@ -445,28 +484,7 @@ http://3shop.link:25461/admin/admin/287
 http://3shop.link:25461/admin/admin/288
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Star Movie" tvg-logo="" group-title="Movies",OSN: Star Movie
 http://3shop.link:25461/admin/admin/290
-#EXTINF:-1 tvg-id="" tvg-name="UK: Euro Sport 1" tvg-logo="" group-title="All Sports",UK: Euro Sport 1
-https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8	
-#EXTINF:-1 tvg-id="" tvg-name="UK: Euro Sport 2" tvg-logo="" group-title="All Sports",UK: Euro Sport 2
-https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8	
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1" tvg-logo="" group-title="All Sports",RMC Sport 1
-http://3shop.link:25461/admin/admin/294
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2" tvg-logo="" group-title="All Sports",RMC Sport 2
-http://3shop.link:25461/admin/admin/295
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4" tvg-logo="" group-title="All Sports",RMC Sport 4
-http://3shop.link:25461/admin/admin/297
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 5" tvg-logo="" group-title="All Sports",RMC Sport 5
-http://3shop.link:25461/admin/admin/298
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 1" tvg-logo="" group-title="All Sports",Astro Super Sport 1
-http://3shop.link:25461/admin/admin/299
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 2" tvg-logo="" group-title="All Sports",Astro Super Sport 2
-http://3shop.link:25461/admin/admin/300
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 3" tvg-logo="" group-title="All Sports",Astro Super Sport 3
-http://3shop.link:25461/admin/admin/301
-#EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 4" tvg-logo="" group-title="All Sports",Astro Super Sport 4
-http://3shop.link:25461/admin/admin/302
-#EXTINF:-1 tvg-id="" tvg-name="true" tvg-logo="" group-title="All Sports",true
-http://3shop.link:25461/admin/admin/304
+
 #EXTINF:-1 tvg-id="" tvg-name="The Queen's Gambit S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/4taUmpWKaTH2dRisytelueNoo8s.jpg" group-title="Serie-Latest Added",The Queen's Gambit S01 E01
 http://3shop.link:25461/series/admin/admin/218.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Queen's Gambit S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/gmNLUrlRLPS5evVvh0wEI5I4cIs.jpg" group-title="Serie-Latest Added",The Queen's Gambit S01 E02
