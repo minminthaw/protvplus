@@ -54,10 +54,12 @@ https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
 https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="True Sport 7" tvg-logo="" group-title="All Sports",True Sport 7
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="UK: Euro Sport 1" tvg-logo="" group-title="All Sports",UK: Euro Sport 1
 https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8	
 #EXTINF:-1 tvg-id="" tvg-name="UK: Euro Sport 2" tvg-logo="" group-title="All Sports",UK: Euro Sport 2
 https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8	
+
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1" tvg-logo="" group-title="All Sports",RMC Sport 1
 http://3shop.link:25461/admin/admin/294
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2" tvg-logo="" group-title="All Sports",RMC Sport 2
@@ -65,6 +67,7 @@ http://3shop.link:25461/admin/admin/295
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4" tvg-logo="" group-title="All Sports",RMC Sport 4
 http://3shop.link:25461/admin/admin/297
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 5" tvg-logo="" group-title="All Sports",RMC Sport 5
+
 http://3shop.link:25461/admin/admin/298
 #EXTINF:-1 tvg-id="" tvg-name="Astro Super Sport 1" tvg-logo="" group-title="All Sports",Astro Super Sport 1
 http://3shop.link:25461/admin/admin/299
@@ -79,13 +82,122 @@ http://3shop.link:25461/admin/admin/302
 http://3shop.link:25461/admin/admin/15
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="All Sports",Sony Ten 3 HD
 http://3shop.link:25461/admin/admin/17
+#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="" group-title="All Sports",MUTV
+http://3shop.link:25461/admin/admin/271
+#EXTINF:-1 tvg-id="" tvg-name="UFC 2" tvg-logo="" group-title="All Sports",UFC 2
+http://3shop.link:25461/admin/admin/272
+#EXTINF:-1 tvg-id="" tvg-name="UFC 3" tvg-logo="" group-title="All Sports",UFC 3
+http://3shop.link:25461/admin/admin/273
+#EXTINF:-1 tvg-id="" tvg-name="TV 5" tvg-logo="" group-title="Entertainment",TV 5
+http://3shop.link:25461/admin/admin/274
+#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD" tvg-logo="" group-title="All Sports",Sony Six HD
+http://3shop.link:25461/admin/admin/40
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="" group-title="All Sports",TVRI
+http://3shop.link:25461/admin/admin/45
+#EXTINF:-1 tvg-id="" tvg-name="DD Sport" tvg-logo="" group-title="All Sports",DD Sport
+http://3shop.link:25461/admin/admin/47
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="" group-title="Entertainment",Arirang
+http://3shop.link:25461/admin/admin/63
+#EXTINF:-1 tvg-id="" tvg-name="FC Bayern Live TV" tvg-logo="" group-title="All Sports",FC Bayern Live TV
+http://3shop.link:25461/admin/admin/65
+#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV" tvg-logo="" group-title="All Sports",Realmadrid TV
+http://3shop.link:25461/admin/admin/66
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="" group-title="All Sports",Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="" group-title="All Sports",Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="" group-title="All Sports",Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="" group-title="All Sports",Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="" group-title="All Sports",Sport TV 5
+
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Adjara Sport 2" tvg-logo="" group-title="All Sports",Adjara Sport 2
+http://3shop.link:25461/admin/admin/224
+#EXTINF:-1 tvg-id="" tvg-name="Adjara Sport 1" tvg-logo="" group-title="All Sports",Adjara Sport 1
+http://3shop.link:25461/admin/admin/225
+#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="All Sports",ESPN
+
+http://3shop.link:25461/admin/admin/234
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport 1" tvg-logo="" group-title="All Sports",Abu Dhabi Sport 1
+http://3shop.link:25461/admin/admin/244
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport 2" tvg-logo="" group-title="All Sports",Abu Dhabi Sport 2
+http://3shop.link:25461/admin/admin/245
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport 3" tvg-logo="" group-title="All Sports",Abu Dhabi Sport 3
+http://3shop.link:25461/admin/admin/246
+#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport 4" tvg-logo="" group-title="All Sports",Abu Dhabi Sport 4
+http://3shop.link:25461/admin/admin/247
+
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="" group-title="All Sports",BT Sport 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="" group-title="All Sports",BT Sport 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3" tvg-logo="" group-title="All Sports",BT Sport 3
+http://3shop.link:25461/admin/admin/263
+
+#EXTINF:-1 tvg-id="" tvg-name="Ten Sport" tvg-logo="" group-title="All Sports",Ten Sport
+http://3shop.link:25461/admin/admin/255
+
+######################################################            KIDS          ######################################################
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids",Cartoon Network
+http://3shop.link:25461/admin/admin/24
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="" group-title="Kids",Aniplus
+http://3shop.link:25461/admin/admin/243
+#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="" group-title="Kids",Space Toon
+http://3shop.link:25461/admin/admin/256
+#EXTINF:-1 tvg-id="" tvg-name="EBS Kid" tvg-logo="" group-title="Kids",EBS Kid
+http://3shop.link:25461/admin/admin/257
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="Kids",Discovery Kids
+http://3shop.link:25461/admin/admin/258
+#EXTINF:-1 tvg-id="" tvg-name="Booba Cartoon" tvg-logo="" group-title="Kids",Booba Cartoon
+http://3shop.link:25461/admin/admin/269
+#EXTINF:-1 tvg-id="" tvg-name="Talking Tom" tvg-logo="" group-title="Kids",Talking Tom
+http://3shop.link:25461/admin/admin/270
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD" tvg-logo="" group-title="All Sports",Bein Sports HD
+http://3shop.link:25461/admin/admin/268
+
+
+################################################     Movies   ###########################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="IN: Movies Now" tvg-logo="" group-title="Movies",IN: Movies Now
 http://3shop.link:25461/admin/admin/18
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV HD" tvg-logo="" group-title="Movies",Sony TV HD
+http://3shop.link:25461/admin/admin/34
+#EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="" group-title="Movies",Sony Max HD
+http://3shop.link:25461/admin/admin/35
+#EXTINF:-1 tvg-id="" tvg-name="Star Vijay HD" tvg-logo="" group-title="Movies",Star Vijay HD
+http://3shop.link:25461/admin/admin/37
+#EXTINF:-1 tvg-id="" tvg-name="ZeeQ Drama" tvg-logo="" group-title="Movies",ZeeQ Drama
+http://3shop.link:25461/admin/admin/41
+#EXTINF:-1 tvg-id="" tvg-name="Manoranjan Movies" tvg-logo="" group-title="Movies",Manoranjan Movies
+http://3shop.link:25461/admin/admin/42
+#EXTINF:-1 tvg-id="" tvg-name="WOW TV" tvg-logo="" group-title="Movies",WOW TV
+http://3shop.link:25461/admin/admin/43
+#EXTINF:-1 tvg-id="" tvg-name="&Flix HD" tvg-logo="" group-title="Movies",&Flix HD
+http://3shop.link:25461/admin/admin/46
+#EXTINF:-1 tvg-id="" tvg-name="Maha Movie" tvg-logo="" group-title="Movies",Maha Movie
+http://3shop.link:25461/admin/admin/50
+#EXTINF:-1 tvg-id="" tvg-name="B Flix Movies" tvg-logo="" group-title="Movies",B Flix Movies
+http://3shop.link:25461/admin/admin/53
+#EXTINF:-1 tvg-id="" tvg-name="Classic Movies" tvg-logo="" group-title="Movies",Classic Movies
+http://3shop.link:25461/admin/admin/70
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movie" tvg-logo="" group-title="Movies",Fox Family Movie
+http://3shop.link:25461/admin/admin/81
+#EXTINF:-1 tvg-id="" tvg-name="Ball Buster 2020" tvg-logo="" group-title="Movie-2020",Ball Buster 2020
+http://3shop.link:25461/movie/admin/admin/87.mp4
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="Movies",HBO
+http://3shop.link:25461/admin/admin/248
+#EXTINF:-1 tvg-id="" tvg-name="OSN Movie Kids" tvg-logo="" group-title="Movies",OSN Movie Kids
+http://3shop.link:25461/admin/admin/250
+#EXTINF:-1 tvg-id="" tvg-name="Star World HD" tvg-logo="" group-title="Movies",Star World HD
+http://3shop.link:25461/admin/admin/252
+
+
+#############################################################  Entertainment      ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="" group-title="Entertainment",WWE Network
 http://3shop.link:25461/admin/admin/19
-#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids",Cartoon Network
-http://3shop.link:25461/admin/admin/24
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment",Animal Planet
 http://3shop.link:25461/admin/admin/28
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Entertainment",Nat Geo Wild
@@ -102,42 +214,49 @@ http://220.158.149.14:9999/live/TV00000000000000000007@HHZT;LIVE
 http://3shop.link:25461/admin/admin/32
 #EXTINF:-1 tvg-id="" tvg-name="Sony Wah" tvg-logo="" group-title="Entertainment",Sony Wah
 http://3shop.link:25461/admin/admin/33
-#EXTINF:-1 tvg-id="" tvg-name="Sony TV HD" tvg-logo="" group-title="Movies",Sony TV HD
-http://3shop.link:25461/admin/admin/34
-#EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="" group-title="Movies",Sony Max HD
-http://3shop.link:25461/admin/admin/35
-#EXTINF:-1 tvg-id="" tvg-name="Star Vijay HD" tvg-logo="" group-title="Movies",Star Vijay HD
-http://3shop.link:25461/admin/admin/37
 #EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="" group-title="Entertainment",Star Plus HD
 http://3shop.link:25461/admin/admin/39
-#EXTINF:-1 tvg-id="" tvg-name="Sony Six HD" tvg-logo="" group-title="All Sports",Sony Six HD
-http://3shop.link:25461/admin/admin/40
-#EXTINF:-1 tvg-id="" tvg-name="ZeeQ Drama" tvg-logo="" group-title="Movies",ZeeQ Drama
-http://3shop.link:25461/admin/admin/41
-#EXTINF:-1 tvg-id="" tvg-name="Manoranjan Movies" tvg-logo="" group-title="Movies",Manoranjan Movies
-http://3shop.link:25461/admin/admin/42
-#EXTINF:-1 tvg-id="" tvg-name="WOW TV" tvg-logo="" group-title="Movies",WOW TV
-http://3shop.link:25461/admin/admin/43
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="" group-title="All Sports",TVRI
-http://3shop.link:25461/admin/admin/45
-#EXTINF:-1 tvg-id="" tvg-name="&Flix HD" tvg-logo="" group-title="Movies",&Flix HD
-http://3shop.link:25461/admin/admin/46
-#EXTINF:-1 tvg-id="" tvg-name="DD Sport" tvg-logo="" group-title="All Sports",DD Sport
-http://3shop.link:25461/admin/admin/47
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax MM" tvg-logo="" group-title="Myanmar Channels",Cinemax MM
-http://3shop.link:25461/admin/admin/48
-#EXTINF:-1 tvg-id="" tvg-name="Cookie TV" tvg-logo="" group-title="Myanmar Channels",Cookie TV
-http://3shop.link:25461/admin/admin/49
-#EXTINF:-1 tvg-id="" tvg-name="Maha Movie" tvg-logo="" group-title="Movies",Maha Movie
-http://3shop.link:25461/admin/admin/50
 #EXTINF:-1 tvg-id="" tvg-name="ZEE TV " tvg-logo="" group-title="Entertainment",ZEE TV 
 http://3shop.link:25461/admin/admin/51
 #EXTINF:-1 tvg-id="" tvg-name="PPTV 36 HD" tvg-logo="" group-title="Entertainment",PPTV 36 HD
 http://3shop.link:25461/admin/admin/52
-#EXTINF:-1 tvg-id="" tvg-name="B Flix Movies" tvg-logo="" group-title="Movies",B Flix Movies
-http://3shop.link:25461/admin/admin/53
 #EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="" group-title="Entertainment",&Prive HD
 http://3shop.link:25461/admin/admin/54
+#EXTINF:-1 tvg-id="" tvg-name="Korea: KBS World" tvg-logo="" group-title="Entertainment",Korea: KBS World
+http://3shop.link:25461/admin/admin/71
+#EXTINF:-1 tvg-id="" tvg-name="Japan: NHK World" tvg-logo="" group-title="Entertainment",Japan: NHK World
+http://3shop.link:25461/admin/admin/72
+#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="" group-title="Entertainment",RedBull TV
+http://3shop.link:25461/admin/admin/205
+#EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="" group-title="Entertainment",Star TV
+http://3shop.link:25461/admin/admin/235
+#EXTINF:-1 tvg-id="" tvg-name="Adult Swim TV" tvg-logo="" group-title="Entertainment",Adult Swim TV
+http://3shop.link:25461/admin/admin/236
+#EXTINF:-1 tvg-id="" tvg-name="Star TV-Turkish" tvg-logo="" group-title="Entertainment",Star TV-Turkish
+http://3shop.link:25461/admin/admin/237
+#EXTINF:-1 tvg-id="" tvg-name="USA: MTV" tvg-logo="" group-title="Entertainment",USA: MTV
+http://3shop.link:25461/admin/admin/238
+#EXTINF:-1 tvg-id="" tvg-name="KPlus" tvg-logo="" group-title="Entertainment",KPlus
+http://3shop.link:25461/admin/admin/240
+#EXTINF:-1 tvg-id="" tvg-name="India: Zee Tamil" tvg-logo="" group-title="Entertainment",India: Zee Tamil
+http://3shop.link:25461/admin/admin/241
+#EXTINF:-1 tvg-id="" tvg-name="India: Sun TV" tvg-logo="" group-title="Entertainment",India: Sun TV
+http://3shop.link:25461/admin/admin/242
+#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="Entertainment",Zee Action
+http://3shop.link:25461/admin/admin/249
+#EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="" group-title="Entertainment",Colors HD
+http://3shop.link:25461/admin/admin/277
+#EXTINF:-1 tvg-id="" tvg-name="Sony Sab HD" tvg-logo="" group-title="Entertainment",Sony Sab HD
+http://3shop.link:25461/admin/admin/278
+#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="Entertainment",Discovery HD
+http://3shop.link:25461/admin/admin/279
+
+############################################################    Myanmar Channels    #####################################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax MM" tvg-logo="" group-title="Myanmar Channels",Cinemax MM
+http://3shop.link:25461/admin/admin/48
+#EXTINF:-1 tvg-id="" tvg-name="Cookie TV" tvg-logo="" group-title="Myanmar Channels",Cookie TV
+http://3shop.link:25461/admin/admin/49
 #EXTINF:-1 tvg-id="" tvg-name="Mizzima TV" tvg-logo="" group-title="Myanmar Channels",Mizzima TV
 http://3shop.link:25461/admin/admin/55
 #EXTINF:-1 tvg-id="" tvg-name="Cookie Asia" tvg-logo="" group-title="Myanmar Channels",Cookie Asia
@@ -154,22 +273,22 @@ http://3shop.link:25461/admin/admin/60
 http://3shop.link:25461/admin/admin/61
 #EXTINF:-1 tvg-id="" tvg-name="Channel K" tvg-logo="" group-title="Myanmar Channels",Channel K
 http://3shop.link:25461/admin/admin/62
-#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="" group-title="Entertainment",Arirang
-http://3shop.link:25461/admin/admin/63
-#EXTINF:-1 tvg-id="" tvg-name="FC Bayern Live TV" tvg-logo="" group-title="All Sports",FC Bayern Live TV
-http://3shop.link:25461/admin/admin/65
-#EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV" tvg-logo="" group-title="All Sports",Realmadrid TV
-http://3shop.link:25461/admin/admin/66
-#EXTINF:-1 tvg-id="" tvg-name="Classic Movies" tvg-logo="" group-title="Movies",Classic Movies
-http://3shop.link:25461/admin/admin/70
-#EXTINF:-1 tvg-id="" tvg-name="Korea: KBS World" tvg-logo="" group-title="Entertainment",Korea: KBS World
-http://3shop.link:25461/admin/admin/71
-#EXTINF:-1 tvg-id="" tvg-name="Japan: NHK World" tvg-logo="" group-title="Entertainment",Japan: NHK World
-http://3shop.link:25461/admin/admin/72
-#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movie" tvg-logo="" group-title="Movies",Fox Family Movie
-http://3shop.link:25461/admin/admin/81
-#EXTINF:-1 tvg-id="" tvg-name="Ball Buster 2020" tvg-logo="" group-title="Movie-2020",Ball Buster 2020
-http://3shop.link:25461/movie/admin/admin/87.mp4
+#EXTINF:-1 tvg-id="" tvg-name="MWD Documentary" tvg-logo="" group-title="Myanmar Channels",MWD Documentary
+http://3shop.link:25461/admin/admin/206
+#EXTINF:-1 tvg-id="" tvg-name="MWD Family" tvg-logo="" group-title="Myanmar Channels",MWD Family
+http://3shop.link:25461/admin/admin/207
+#EXTINF:-1 tvg-id="" tvg-name="MWD Movie" tvg-logo="" group-title="Myanmar Channels",MWD Movie
+http://3shop.link:25461/admin/admin/208
+#EXTINF:-1 tvg-id="" tvg-name="MWD Education" tvg-logo="" group-title="Myanmar Channels",MWD Education
+http://3shop.link:25461/admin/admin/209
+#EXTINF:-1 tvg-id="" tvg-name="DVB" tvg-logo="" group-title="Myanmar Channels",DVB
+http://3shop.link:25461/admin/admin/210
+#EXTINF:-1 tvg-id="" tvg-name="MVM TV" tvg-logo="" group-title="Myanmar Channels",MVM TV
+http://3shop.link:25461/admin/admin/213
+
+
+
+###################################################################     Movie - 2020    #######################################################################
 #EXTINF:-1 tvg-id="" tvg-name="(CM) Freaks Youre One of Us 2020 WEB-DL 720p" tvg-logo="" group-title="Movie-2020",(CM) Freaks Youre One of Us 2020 WEB-DL 720p
 http://3shop.link:25461/movie/admin/admin/88.mp4
 #EXTINF:-1 tvg-id="" tvg-name="(CM) Love Guaranteed 2020 WEBRip 720p" tvg-logo="" group-title="Movie-2020",(CM) Love Guaranteed 2020 WEBRip 720p
@@ -230,6 +349,8 @@ http://3shop.link:25461/movie/admin/admin/115.mp4
 http://3shop.link:25461/movie/admin/admin/116.mp4
 #EXTINF:-1 tvg-id="" tvg-name="YouShouldHaveLeft.2020" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg" group-title="Movie-2020",YouShouldHaveLeft.2020
 http://3shop.link:25461/movie/admin/admin/117.mkv
+
+
 #EXTINF:-1 tvg-id="" tvg-name="I.Am.Woman.2019.720p (CM)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpOwE6xsWnu4lKeKbKW0R3iClM.jpg" group-title="Movie-2019",I.Am.Woman.2019.720p (CM)
 http://3shop.link:25461/movie/admin/admin/118.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Culprit (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/svJ0fs7Aam55oa03nuiEtZ79nhH.jpg" group-title="Movie-2019",The Culprit (2019)
@@ -250,6 +371,10 @@ http://3shop.link:25461/movie/admin/admin/125.mp4
 http://3shop.link:25461/movie/admin/admin/126.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Zombie Fighter (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Rd9OLBUcPWYb402govgs6kdLhc.jpg" group-title="Movie-2019",Zombie Fighter (2020)
 http://3shop.link:25461/movie/admin/admin/127.mp4
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Bumblebee (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg" group-title="Movie-2018 and older",Bumblebee (2018)
 http://3shop.link:25461/movie/admin/admin/128.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cold War (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rbS8oPIgUMhQgIX8oGVTtlNgLR.jpg" group-title="Movie-2018 and older",Cold War (2018)
@@ -298,6 +423,10 @@ http://3shop.link:25461/movie/admin/admin/149.mkv
 http://3shop.link:25461/movie/admin/admin/150.mkv
 #EXTINF:-1 tvg-id="" tvg-name="Singam (2010)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7bsLSuEg3FuCY1o7uSzbxMUJLB.jpg" group-title="Movie-2018 and older",Singam (2010)
 http://3shop.link:25461/movie/admin/admin/151.mp4
+
+
+###################################################################### Movie - Latest Added #################################################
+
 #EXTINF:-1 tvg-id="" tvg-name="12SuicidalTeens-2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7bsLSuEg3FuCY1o7uSzbxMUJLB.jpg" group-title="Movie-Latest Added",12SuicidalTeens-2019
 http://3shop.link:25461/movie/admin/admin/168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="300RiseOfAnEmpire-2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7bsLSuEg3FuCY1o7uSzbxMUJLB.jpg" group-title="Movie-Latest Added",300RiseOfAnEmpire-2014
@@ -366,84 +495,12 @@ http://3shop.link:25461/movie/admin/admin/199.mp4
 http://3shop.link:25461/movie/admin/admin/200.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Talvar (2015)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xDHnmcroujCRG0ysYQaiswjbyHd.jpg" group-title="Movie-Latest Added",Talvar (2015)
 http://3shop.link:25461/movie/admin/admin/201.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="" group-title="All Sports",Sport TV 1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="" group-title="All Sports",Sport TV 2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 3" tvg-logo="" group-title="All Sports",Sport TV 3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 4" tvg-logo="" group-title="All Sports",Sport TV 4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="" group-title="All Sports",Sport TV 5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="" group-title="Entertainment",RedBull TV
-http://3shop.link:25461/admin/admin/205
-#EXTINF:-1 tvg-id="" tvg-name="MWD Documentary" tvg-logo="" group-title="Myanmar Channels",MWD Documentary
-http://3shop.link:25461/admin/admin/206
-#EXTINF:-1 tvg-id="" tvg-name="MWD Family" tvg-logo="" group-title="Myanmar Channels",MWD Family
-http://3shop.link:25461/admin/admin/207
-#EXTINF:-1 tvg-id="" tvg-name="MWD Movie" tvg-logo="" group-title="Myanmar Channels",MWD Movie
-http://3shop.link:25461/admin/admin/208
-#EXTINF:-1 tvg-id="" tvg-name="MWD Education" tvg-logo="" group-title="Myanmar Channels",MWD Education
-http://3shop.link:25461/admin/admin/209
-#EXTINF:-1 tvg-id="" tvg-name="DVB" tvg-logo="" group-title="Myanmar Channels",DVB
-http://3shop.link:25461/admin/admin/210
-#EXTINF:-1 tvg-id="" tvg-name="MVM TV" tvg-logo="" group-title="Myanmar Channels",MVM TV
-http://3shop.link:25461/admin/admin/213
-#EXTINF:-1 tvg-id="" tvg-name="Adjara Sport 2" tvg-logo="" group-title="All Sports",Adjara Sport 2
-http://3shop.link:25461/admin/admin/224
-#EXTINF:-1 tvg-id="" tvg-name="Adjara Sport 1" tvg-logo="" group-title="All Sports",Adjara Sport 1
-http://3shop.link:25461/admin/admin/225
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="" group-title="All Sports",ESPN
-http://3shop.link:25461/admin/admin/234
-#EXTINF:-1 tvg-id="" tvg-name="Star TV" tvg-logo="" group-title="Entertainment",Star TV
-http://3shop.link:25461/admin/admin/235
-#EXTINF:-1 tvg-id="" tvg-name="Adult Swim TV" tvg-logo="" group-title="Entertainment",Adult Swim TV
-http://3shop.link:25461/admin/admin/236
-#EXTINF:-1 tvg-id="" tvg-name="Star TV-Turkish" tvg-logo="" group-title="Entertainment",Star TV-Turkish
-http://3shop.link:25461/admin/admin/237
-#EXTINF:-1 tvg-id="" tvg-name="USA: MTV" tvg-logo="" group-title="Entertainment",USA: MTV
-http://3shop.link:25461/admin/admin/238
-#EXTINF:-1 tvg-id="" tvg-name="KPlus" tvg-logo="" group-title="Entertainment",KPlus
-http://3shop.link:25461/admin/admin/240
-#EXTINF:-1 tvg-id="" tvg-name="India: Zee Tamil" tvg-logo="" group-title="Entertainment",India: Zee Tamil
-http://3shop.link:25461/admin/admin/241
-#EXTINF:-1 tvg-id="" tvg-name="India: Sun TV" tvg-logo="" group-title="Entertainment",India: Sun TV
-http://3shop.link:25461/admin/admin/242
-#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="" group-title="Kids",Aniplus
-http://3shop.link:25461/admin/admin/243
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport 1" tvg-logo="" group-title="All Sports",Abu Dhabi Sport 1
-http://3shop.link:25461/admin/admin/244
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport 2" tvg-logo="" group-title="All Sports",Abu Dhabi Sport 2
-http://3shop.link:25461/admin/admin/245
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport 3" tvg-logo="" group-title="All Sports",Abu Dhabi Sport 3
-http://3shop.link:25461/admin/admin/246
-#EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport 4" tvg-logo="" group-title="All Sports",Abu Dhabi Sport 4
-http://3shop.link:25461/admin/admin/247
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="Movies",HBO
-http://3shop.link:25461/admin/admin/248
-#EXTINF:-1 tvg-id="" tvg-name="Zee Action" tvg-logo="" group-title="Entertainment",Zee Action
-http://3shop.link:25461/admin/admin/249
-#EXTINF:-1 tvg-id="" tvg-name="OSN Movie Kids" tvg-logo="" group-title="Movies",OSN Movie Kids
-http://3shop.link:25461/admin/admin/250
-#EXTINF:-1 tvg-id="" tvg-name="Star World HD" tvg-logo="" group-title="Movies",Star World HD
-http://3shop.link:25461/admin/admin/252
+
+
+################################################    News     #################################################################
+
 #EXTINF:-1 tvg-id="" tvg-name="Fox Sport News" tvg-logo="" group-title="News",Fox Sport News
 http://3shop.link:25461/admin/admin/254
-#EXTINF:-1 tvg-id="" tvg-name="Ten Sport" tvg-logo="" group-title="All Sports",Ten Sport
-http://3shop.link:25461/admin/admin/255
-#EXTINF:-1 tvg-id="" tvg-name="Space Toon" tvg-logo="" group-title="Kids",Space Toon
-http://3shop.link:25461/admin/admin/256
-#EXTINF:-1 tvg-id="" tvg-name="EBS Kid" tvg-logo="" group-title="Kids",EBS Kid
-http://3shop.link:25461/admin/admin/257
-#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="Kids",Discovery Kids
-http://3shop.link:25461/admin/admin/258
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 1" tvg-logo="" group-title="All Sports",BT Sport 1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 2" tvg-logo="" group-title="All Sports",BT Sport 2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BT Sport 3" tvg-logo="" group-title="All Sports",BT Sport 3
-http://3shop.link:25461/admin/admin/263
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="News",Bloomberg
 http://3shop.link:25461/admin/admin/264
 #EXTINF:-1 tvg-id="" tvg-name="24 News" tvg-logo="" group-title="News",24 News
@@ -452,30 +509,13 @@ http://3shop.link:25461/admin/admin/265
 http://3shop.link:25461/admin/admin/266
 #EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="" group-title="News",Sky News
 http://3shop.link:25461/admin/admin/267
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD" tvg-logo="" group-title="All Sports",Bein Sports HD
-http://3shop.link:25461/admin/admin/268
-#EXTINF:-1 tvg-id="" tvg-name="Booba Cartoon" tvg-logo="" group-title="Kids",Booba Cartoon
-http://3shop.link:25461/admin/admin/269
-#EXTINF:-1 tvg-id="" tvg-name="Talking Tom" tvg-logo="" group-title="Kids",Talking Tom
-http://3shop.link:25461/admin/admin/270
-#EXTINF:-1 tvg-id="" tvg-name="MUTV" tvg-logo="" group-title="All Sports",MUTV
-http://3shop.link:25461/admin/admin/271
-#EXTINF:-1 tvg-id="" tvg-name="UFC 2" tvg-logo="" group-title="All Sports",UFC 2
-http://3shop.link:25461/admin/admin/272
-#EXTINF:-1 tvg-id="" tvg-name="UFC 3" tvg-logo="" group-title="All Sports",UFC 3
-http://3shop.link:25461/admin/admin/273
-#EXTINF:-1 tvg-id="" tvg-name="TV 5" tvg-logo="" group-title="Entertainment",TV 5
-http://3shop.link:25461/admin/admin/274
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="" group-title="News",CGTN
 http://3shop.link:25461/admin/admin/275
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Documentary" tvg-logo="" group-title="News",CGTN Documentary
 http://3shop.link:25461/admin/admin/276
-#EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="" group-title="Entertainment",Colors HD
-http://3shop.link:25461/admin/admin/277
-#EXTINF:-1 tvg-id="" tvg-name="Sony Sab HD" tvg-logo="" group-title="Entertainment",Sony Sab HD
-http://3shop.link:25461/admin/admin/278
-#EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="Entertainment",Discovery HD
-http://3shop.link:25461/admin/admin/279
+
+
+################################################     Music    ################################################################
 #EXTINF:-1 tvg-id="" tvg-name="MTV Music" tvg-logo="" group-title="Music",MTV Music
 http://3shop.link:25461/admin/admin/286
 #EXTINF:-1 tvg-id="" tvg-name="Zing Music" tvg-logo="" group-title="Music",Zing Music
@@ -484,6 +524,8 @@ http://3shop.link:25461/admin/admin/287
 http://3shop.link:25461/admin/admin/288
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Star Movie" tvg-logo="" group-title="Movies",OSN: Star Movie
 http://3shop.link:25461/admin/admin/290
+
+##############################################################   Serie-Latest Added    #####################################################
 
 #EXTINF:-1 tvg-id="" tvg-name="The Queen's Gambit S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/4taUmpWKaTH2dRisytelueNoo8s.jpg" group-title="Serie-Latest Added",The Queen's Gambit S01 E01
 http://3shop.link:25461/series/admin/admin/218.mp4
