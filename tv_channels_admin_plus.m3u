@@ -13,6 +13,12 @@ http://3shop.link:25461/admin/admin/5
 http://3shop.link:25461/admin/admin/20
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 7 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 7 HD
 http://3shop.link:25461/admin/admin/21
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 8 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 8 HD
+http://3shop.link:25461/admin/admin/26
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Sport HD 1" tvg-logo="" group-title="All Sports",True Premier Sport HD 1
+https://doofootball.livestream-cdn.com/iptv/epl-1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="True Premier Sport HD 2" tvg-logo="" group-title="All Sports",True Premier Sport HD 2
+https://doofootball.livestream-cdn.com/iptv/epl-2.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV Git" tvg-logo="" group-title="All Sports",Sport TV Git
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1" tvg-logo="" group-title="All Sports",Digi Sport 1
@@ -33,8 +39,6 @@ http://3shop.link:25461/admin/admin/18
 http://3shop.link:25461/admin/admin/19
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids",Cartoon Network
 http://3shop.link:25461/admin/admin/24
-#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 8 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 8 HD
-http://3shop.link:25461/admin/admin/26
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment",Animal Planet
 http://3shop.link:25461/admin/admin/28
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Entertainment",Nat Geo Wild
@@ -428,9 +432,9 @@ http://3shop.link:25461/admin/admin/288
 #EXTINF:-1 tvg-id="" tvg-name="OSN: Star Movie" tvg-logo="" group-title="Movies",OSN: Star Movie
 http://3shop.link:25461/admin/admin/290
 #EXTINF:-1 tvg-id="" tvg-name="UK: Euro Sport 1" tvg-logo="" group-title="All Sports",UK: Euro Sport 1
-http://3shop.link:25461/admin/admin/291
+https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8	
 #EXTINF:-1 tvg-id="" tvg-name="UK: Euro Sport 2" tvg-logo="" group-title="All Sports",UK: Euro Sport 2
-http://3shop.link:25461/admin/admin/292
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8	
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 1" tvg-logo="" group-title="All Sports",RMC Sport 1
 http://3shop.link:25461/admin/admin/294
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2" tvg-logo="" group-title="All Sports",RMC Sport 2
