@@ -9,6 +9,12 @@ http://3shop.link:25461/admin/admin/3
 http://3shop.link:25461/admin/admin/4
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 5 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 5 HD
 http://3shop.link:25461/admin/admin/5
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 6 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 6 HD
+http://3shop.link:25461/admin/admin/20
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 7 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 7 HD
+http://3shop.link:25461/admin/admin/21
+#EXTINF:-1 tvg-id="" tvg-name="Sport TV Git" tvg-logo="" group-title="All Sports",Sport TV Git
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1" tvg-logo="" group-title="All Sports",Digi Sport 1
 http://3shop.link:25461/admin/admin/7
 #EXTINF:-1 tvg-id="" tvg-name="Digi Sport 2" tvg-logo="" group-title="All Sports",Digi Sport 2
@@ -25,10 +31,6 @@ http://3shop.link:25461/admin/admin/17
 http://3shop.link:25461/admin/admin/18
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="" group-title="Entertainment",WWE Network
 http://3shop.link:25461/admin/admin/19
-#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 6 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 6 HD
-http://3shop.link:25461/admin/admin/20
-#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 7 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 7 HD
-http://3shop.link:25461/admin/admin/21
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids",Cartoon Network
 http://3shop.link:25461/admin/admin/24
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 8 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 8 HD
