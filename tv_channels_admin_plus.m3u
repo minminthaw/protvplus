@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Test" tvg-logo="" group-title="All Sports",Test
-http://3shop.link:25461/admin/admin/305
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 1 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 1 HD(Thai)
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 1 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 1 HD
@@ -21,6 +19,8 @@ http://3shop.link:25461/admin/admin/20
 http://3shop.link:25461/admin/admin/21
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 8 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 8 HD
 http://3shop.link:25461/admin/admin/26
+#EXTINF:-1 tvg-id="" tvg-name="Test 1" tvg-logo="" group-title="All Sports",Test 1
+http://3shop.link:25461/admin/admin/305
 
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football 1 HD" tvg-logo="" group-title="All Sports",True Premier Football 1 HD
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
