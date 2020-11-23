@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Test" tvg-logo="" group-title="All Sports",Test
+http://3shop.link:25461/admin/admin/305
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 1 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 1 HD(Thai)
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 1 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 1 HD
