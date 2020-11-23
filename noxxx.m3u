@@ -298,6 +298,8 @@ http://3shop.link:25461/admin/admin/42
 http://3shop.link:25461/admin/admin/43
 #EXTINF:-1 tvg-id="" tvg-name="&Flix HD" tvg-logo="" group-title="Movies",&Flix HD
 http://3shop.link:25461/admin/admin/46
+#EXTINF:-1 tvg-id="" tvg-name="&Flix HD" tvg-logo="" group-title="Movies",&Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maha Movie" tvg-logo="" group-title="Movies",Maha Movie
 http://3shop.link:25461/admin/admin/50
 #EXTINF:-1 tvg-id="" tvg-name="B Flix Movies" tvg-logo="" group-title="Movies",B Flix Movies
