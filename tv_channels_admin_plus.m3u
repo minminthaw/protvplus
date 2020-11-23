@@ -144,6 +144,8 @@ http://3shop.link:25461/admin/admin/263
 
 #EXTINF:-1 tvg-id="" tvg-name="Ten Sport" tvg-logo="" group-title="All Sports",Ten Sport
 http://3shop.link:25461/admin/admin/255
+#EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="" group-title="All Sports",Fight Sport
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
 
 ######################################################            KIDS          ######################################################
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids",Cartoon Network
@@ -199,6 +201,15 @@ http://3shop.link:25461/admin/admin/250
 #EXTINF:-1 tvg-id="" tvg-name="Star World HD" tvg-logo="" group-title="Movies",Star World HD
 http://3shop.link:25461/admin/admin/252
 
+#EXTINF:-1 tvg-id="" tvg-name="FoxMovies" tvg-logo="" group-title="Movies",FoxMovies
+https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FoxAction" tvg-logo="" group-title="Movies",FoxAction
+https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fox Family Movies" tvg-logo="" group-title="Movies",FoxFamily Movies
+https://www.livedoomovie.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FoxMovies Premium" tvg-logo="" group-title="Movies",FoxMovies Premium
+https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+
 
 #############################################################  Entertainment      ###############################################
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="" group-title="Entertainment",WWE Network
@@ -207,6 +218,10 @@ http://3shop.link:25461/admin/admin/19
 http://3shop.link:25461/admin/admin/28
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Entertainment",Nat Geo Wild
 http://3shop.link:25461/admin/admin/29
+
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild(Thai)" tvg-logo="" group-title="Entertainment",Nat Geo Wild(Thai)
+https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-logo="" group-title="Entertainment",CCTV 5+
 http://3shop.link:25461/admin/admin/30
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-logo="" group-title="Entertainment",CCTV 4
@@ -255,6 +270,8 @@ http://3shop.link:25461/admin/admin/277
 http://3shop.link:25461/admin/admin/278
 #EXTINF:-1 tvg-id="" tvg-name="Discovery HD" tvg-logo="" group-title="Entertainment",Discovery HD
 http://3shop.link:25461/admin/admin/279
+#EXTINF:-1 tvg-id="" tvg-name="Zee Tamil" tvg-logo="" group-title="Entertainment",Zee Tamil
+http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/100653
 
 ############################################################    Myanmar Channels    #####################################################################
 
