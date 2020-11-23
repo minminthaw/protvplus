@@ -1,11 +1,38 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Burnley Vs Crystal Palace(12:00 AM)" tvg-logo="" group-title="A-Live Football",Burnley Vs Crystal Palace(12:00 AM)
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Burnley Vs Crystal Palace(12:00 AM)" tvg-logo="" group-title="A-Live Football",Burnley Vs Crystal Palace(12:00 AM)
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Burnley Vs Crystal Palace(12:00 AM)" tvg-logo="" group-title="A-Live Football",Burnley Vs Crystal Palace(12:00 AM)
+http://3shop.link:25461/admin/admin/1
+#EXTINF:-1 tvg-id="" tvg-name="Burnley Vs Crystal Palace(12:00 AM)" tvg-logo="" group-title="A-Live Football",Burnley Vs Crystal Palace(12:00 AM)
+http://3shop.link:25461/admin/admin/2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Wolverhampton Vs Southampton(2:30 AM)" tvg-logo="" group-title="A-Live Football",Wolverhampton Vs Southampton(2:30 AM)
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wolverhampton Vs Southampton(2:30 AM)" tvg-logo="" group-title="A-Live Football",Wolverhampton Vs Southampton(2:30 AM)
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Wolverhampton Vs Southampton(2:30 AM)" tvg-logo="" group-title="A-Live Football",Wolverhampton Vs Southampton(2:30 AM)
+http://3shop.link:25461/admin/admin/1
+#EXTINF:-1 tvg-id="" tvg-name="Wolverhampton Vs Southampton(2:30 AM)" tvg-logo="" group-title="A-Live Football",Wolverhampton Vs Southampton(2:30 AM)
+http://3shop.link:25461/admin/admin/2
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Athletic Club Vs Real Betis(2:30 AM)" tvg-logo="" group-title="A-Live Football",Athletic Club Vs Real Betis(2:30 AM)
+http://3shop.link:25461/admin/admin/3
+#EXTINF:-1 tvg-id="" tvg-name="Athletic Club Vs Real Betis(2:30 AM)" tvg-logo="" group-title="A-Live Football",Athletic Club Vs Real Betis(2:30 AM)
+http://3shop.link:25461/admin/admin/7
+
+
+####################################################################################################################################################
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 1 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 1 HD(Thai)
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 1 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 1 HD
 http://3shop.link:25461/admin/admin/1
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 2 HD(Thai)" tvg-logo="" group-title="All Sports",AR: Bein Sport 2 HD(Thai)
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 1 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 2 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 2 HD
 http://3shop.link:25461/admin/admin/2
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 3 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 3 HD
 http://3shop.link:25461/admin/admin/3
