@@ -196,7 +196,8 @@ http://3shop.link:25461/admin/admin/933
 ###########################################################################################################################################################
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Disnep HD" tvg-logo="" group-title="Kids",Disnep HD
+http://3shop.link:25461/admin/admin/941
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids",Cartoon Network
 http://3shop.link:25461/admin/admin/24
 #EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="" group-title="Kids",Aniplus
@@ -220,8 +221,10 @@ http://3shop.link:25461/admin/admin/268
 ###########################################################################################################################################################
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="raw-AXN HD" tvg-logo="" group-title="Movies",raw-AXN HD
+http://3shop.link:25461/admin/admin/942
+#EXTINF:-1 tvg-id="" tvg-name="Wow Cinema" tvg-logo="" group-title="Movies",Wow Cinema
+http://3shop.link:25461/admin/admin/937
 #EXTINF:-1 tvg-id="" tvg-name="IN: Movies Now" tvg-logo="" group-title="Movies",IN: Movies Now
 http://3shop.link:25461/admin/admin/18
 #EXTINF:-1 tvg-id="" tvg-name="Sony TV HD" tvg-logo="" group-title="Movies",Sony TV HD
@@ -308,7 +311,8 @@ http://3shop.link:25461/admin/admin/837
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Asia" tvg-logo="" group-title="Entertainment",TV5 Monde Asia
+http://3shop.link:25461/admin/admin/938
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="" group-title="Entertainment",WWE Network
 http://3shop.link:25461/admin/admin/19
 #EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment",Animal Planet
@@ -321,6 +325,8 @@ https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-logo="" group-title="Entertainment",CCTV 5+
 http://3shop.link:25461/admin/admin/30
+#EXTINF:-1 tvg-id="" tvg-name="raw-CCTV 5" tvg-logo="" group-title="All Sports",raw-CCTV 5
+http://3shop.link:25461/admin/admin/939
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 4" tvg-logo="" group-title="Entertainment",CCTV 4
 http://3shop.link:25461/admin/admin/44
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 3" tvg-logo="" group-title="Entertainment",CCTV 3
