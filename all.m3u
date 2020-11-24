@@ -197,7 +197,7 @@ http://3shop.link:25461/admin/admin/933
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Disnep HD" tvg-logo="" group-title="Kids",Disnep HD
-http://3shop.link:25461/admin/admin/941
+https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="Kids",Cartoon Network
 http://3shop.link:25461/admin/admin/24
 #EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="" group-title="Kids",Aniplus
@@ -222,7 +222,7 @@ http://3shop.link:25461/admin/admin/268
 
 
 #EXTINF:-1 tvg-id="" tvg-name="raw-AXN HD" tvg-logo="" group-title="Movies",raw-AXN HD
-http://3shop.link:25461/admin/admin/942
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wow Cinema" tvg-logo="" group-title="Movies",Wow Cinema
 http://3shop.link:25461/admin/admin/937
 #EXTINF:-1 tvg-id="" tvg-name="IN: Movies Now" tvg-logo="" group-title="Movies",IN: Movies Now
@@ -422,7 +422,8 @@ http://3shop.link:25461/admin/admin/213
 
 ###########################################################################################################################################################
 
-
+#EXTINF:-1 tvg-id="" tvg-name="8 HD" tvg-logo="" group-title="Thailand",8 HD
+https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 8 Thailand" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" group-title="Thailand",Channel 8 Thailand
 http://3shop.link:25461/admin/admin/318
 #EXTINF:-1 tvg-id="" tvg-name="CTB" tvg-logo="http://ctbtv.co.th/indexctb/ctbtv1.png" group-title="Thailand",CTB
