@@ -72,6 +72,15 @@ http://3shop.link:25461/admin/admin/295
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4" tvg-logo="" group-title="All Sports",RMC Sport 4
 http://3shop.link:25461/admin/admin/297
 
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1" tvg-logo="" group-title="All Sports",Arena Sport 1
+http://3shop.link:25461/admin/admin/1127
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 2" tvg-logo="" group-title="All Sports",Arena Sport 2
+http://3shop.link:25461/admin/admin/1128
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 3" tvg-logo="" group-title="All Sports",Arena Sport 3
+http://3shop.link:25461/admin/admin/1129
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 4" tvg-logo="" group-title="All Sports",Arena Sport 4
+http://3shop.link:25461/admin/admin/1130
+
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1 HD" tvg-logo="" group-title="All Sports",Sony Ten 1 HD
 http://3shop.link:25461/admin/admin/15
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3 HD" tvg-logo="" group-title="All Sports",Sony Ten 3 HD
@@ -748,7 +757,126 @@ http://3shop.link:25461/admin/admin/267
 
 
 
-###########################################################################################################################################################
+######################################################################################## Movie - 2020 ###################################################################
+
+#EXTINF:-1 tvg-id="" tvg-name="Greenland (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bNo2mcvSwIvnx8K6y1euAc1TLVq.jpg" group-title="Movie-2020",Greenland (2020)
+http://3shop.link:25461/movie/admin/admin/1131.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Halahal (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3ejRsDxBT0YQoNnNRWsh9lF94q.jpg" group-title="Movie-2020",Halahal (2020)
+http://3shop.link:25461/movie/admin/admin/1132.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Happy Halloween, Scooby-Doo! (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5aL71e0XBgHZ6zdWcWeuEhwD2Gw.jpg" group-title="Movie-2020",Happy Halloween, Scooby-Doo! (2020)
+http://3shop.link:25461/movie/admin/admin/1133.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hey! Little Bones (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xnv1YlQs01hSQuIe2drIdbh1frK.jpg" group-title="Movie-2020",Hey! Little Bones (2020)
+http://3shop.link:25461/movie/admin/admin/1134.mp4
+#EXTINF:-1 tvg-id="" tvg-name="His House (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6XxJEe4ovVTMgmGmKeO87OFANU.jpg" group-title="Movie-2020",His House (2020)
+http://3shop.link:25461/movie/admin/admin/1135.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Holidate (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lAaJc9842RDVrjvR3OLPMTeHkiA.jpg" group-title="Movie-2020",Holidate (2020)
+http://3shop.link:25461/movie/admin/admin/1136.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hot Blooded Detective (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yh6TovgwDmqDTvsCGnuv84xCxZI.jpg" group-title="Movie-2020",Hot Blooded Detective (2020)
+http://3shop.link:25461/movie/admin/admin/1137.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Hubie Halloween (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbhC6qRydXyRmpUdcl9bL9rARya.jpg" group-title="Movie-2020",Hubie Halloween (2020)
+http://3shop.link:25461/movie/admin/admin/1138.mp4
+#EXTINF:-1 tvg-id="" tvg-name="InOtherWords" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dbhC6qRydXyRmpUdcl9bL9rARya.jpg" group-title="Movie-2020",InOtherWords
+http://3shop.link:25461/movie/admin/admin/1139.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Indigo Valley (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UZ2Wd3ercj6FJ7zEQZ2bBu83g3.jpg" group-title="Movie-2020",Indigo Valley (2020)
+http://3shop.link:25461/movie/admin/admin/1140.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Its About Choices (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY0wzMSvlBuLtbOsESmISlmCazX.jpg" group-title="Movie-2020",Its About Choices (2020)
+http://3shop.link:25461/movie/admin/admin/1141.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Janin Fetus" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mY0wzMSvlBuLtbOsESmISlmCazX.jpg" group-title="Movie-2020",Janin Fetus
+http://3shop.link:25461/movie/admin/admin/1142.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ka/Pae. Ranasingam (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zrzAsQBI4MoOjsEo8M7hZynfQI1.jpg" group-title="Movie-2020",Ka/Pae. Ranasingam (2020)
+http://3shop.link:25461/movie/admin/admin/1143.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Laxmii (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sZ1UGVxOCs4yDd5NoACRkK0oXn.jpg" group-title="Movie-2020",Laxmii (2020)
+http://3shop.link:25461/movie/admin/admin/1144.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Let It Snow (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rAeQaySpt5iSdK8eWOpBnSB8mGQ.jpg" group-title="Movie-2020",Let It Snow (2020)
+http://3shop.link:25461/movie/admin/admin/1145.mp4
+#EXTINF:-1 tvg-id="" tvg-name="London Confidential (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gPIYFb1eLln7FTO40q2HiP1Fvk3.jpg" group-title="Movie-2020",London Confidential (2020)
+http://3shop.link:25461/movie/admin/admin/1146.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Lord of Shanghai 2 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/XAdCkSeWlYPN9wnqAOZFquUM7z.jpg" group-title="Movie-2020",Lord of Shanghai 2 (2020)
+http://3shop.link:25461/movie/admin/admin/1147.mp4
+#EXTINF:-1 tvg-id="" tvg-name="May the Devil Take You Too (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vXA8zpqit6o1lg7SlKibeflPddu.jpg" group-title="Movie-2020",May the Devil Take You Too (2020)
+http://3shop.link:25461/movie/admin/admin/1148.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miss Agent (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzKliFQ9Rhy5CWQP83bpph2JvG2.jpg" group-title="Movie-2020",Miss Agent (2020)
+http://3shop.link:25461/movie/admin/admin/1149.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miss India (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkvkfOggj7HY6nQkiPYkkLcqdEL.jpg" group-title="Movie-2020",Miss India (2020)
+http://3shop.link:25461/movie/admin/admin/1150.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster List" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xkvkfOggj7HY6nQkiPYkkLcqdEL.jpg" group-title="Movie-2020",Monster List
+http://3shop.link:25461/movie/admin/admin/1151.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Monster Run (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRhYEPqZcGFW9n0eb4AxlBInY1I.jpg" group-title="Movie-2020",Monster Run (2020)
+http://3shop.link:25461/movie/admin/admin/1152.mp4
+#EXTINF:-1 tvg-id="" tvg-name="My Sex Doll (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cyVyrXq5dRAtdF06iQhi2vkkyYE.jpg" group-title="Movie-2020",My Sex Doll (2020)
+http://3shop.link:25461/movie/admin/admin/1153.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Okay! Madam (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yp64ggHbNDtQzPuF70Ds2uyJ4px.jpg" group-title="Movie-2020",Okay! Madam (2020)
+http://3shop.link:25461/movie/admin/admin/1154.mp4
+#EXTINF:-1 tvg-id="" tvg-name="On the Rocks (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fcijRCmB7yTtloh4Pumy9b1rkwU.jpg" group-title="Movie-2020",On the Rocks (2020)
+http://3shop.link:25461/movie/admin/admin/1155.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Once Upon a Snowman (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hddzYJtfYYeMDOQVcH58n8m1W3A.jpg" group-title="Movie-2020",Once Upon a Snowman (2020)
+http://3shop.link:25461/movie/admin/admin/1156.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Operation Christmas Drop (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1fUcKFDy58DhWYd5Y7Nu5DgpxaE.jpg" group-title="Movie-2020",Operation Christmas Drop (2020)
+http://3shop.link:25461/movie/admin/admin/1157.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Paranormal Attraction (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qPM4pPNUCTAcB2GiC3vnWJBfVPR.jpg" group-title="Movie-2020",Paranormal Attraction (2020)
+http://3shop.link:25461/movie/admin/admin/1158.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Possessor (1975)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4Gr1p2JOCyjCmU57uqnUiHJQjZ.jpg" group-title="Movie-2020",The Possessor (1975)
+http://3shop.link:25461/movie/admin/admin/1159.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rasuk II" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v4Gr1p2JOCyjCmU57uqnUiHJQjZ.jpg" group-title="Movie-2020",Rasuk II
+http://3shop.link:25461/movie/admin/admin/1160.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Rebecca (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kGhllBArW7ImDycSMIG5bj6GEPL.jpg" group-title="Movie-2020",Rebecca (2020)
+http://3shop.link:25461/movie/admin/admin/1161.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Ride Your Dream (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y7s6fEIZQmgszoiOnHP1YTOyhqc.jpg" group-title="Movie-2020",Ride Your Dream (2020)
+http://3shop.link:25461/movie/admin/admin/1162.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Run (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtDYMa2inpJjxq2DjELPXbtf02v.jpg" group-title="Movie-2020",Run (2020)
+http://3shop.link:25461/movie/admin/admin/1163.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sexy Underwear (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Z1ZVK9V3soBgzI6JSwaZf4v7Ca.jpg" group-title="Movie-2020",Sexy Underwear (2020)
+http://3shop.link:25461/movie/admin/admin/1164.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sinfidelity (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6M14prD8sjo3lHc43sylEAOUewd.jpg" group-title="Movie-2020",Sinfidelity (2020)
+http://3shop.link:25461/movie/admin/admin/1165.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sunkist Family (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lj8RzVFqhd78OpO7IVClekCF5HN.jpg" group-title="Movie-2020",Sunkist Family (2019)
+http://3shop.link:25461/movie/admin/admin/1166.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tale Of The Wulong Town" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lj8RzVFqhd78OpO7IVClekCF5HN.jpg" group-title="Movie-2020",Tale Of The Wulong Town
+http://3shop.link:25461/movie/admin/admin/1167.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tears Of No Regret (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l0eajRJ9dtQoH5HXtn2qIrMmVce.jpg" group-title="Movie-2020",Tears Of No Regret (2020)
+http://3shop.link:25461/movie/admin/admin/1168.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Teenage Badass (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aa2jU3ZOXNB7wRdSOHCz41JGRki.jpg" group-title="Movie-2020",Teenage Badass (2020)
+http://3shop.link:25461/movie/admin/admin/1169.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The 12th Suspect (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uTrEGZVNju8QGazwOErdXAKyLbg.jpg" group-title="Movie-2020",The 12th Suspect (2019)
+http://3shop.link:25461/movie/admin/admin/1170.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Binding (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfqZgfyLcg9XOw8tnbU0JwkSBsv.jpg" group-title="Movie-2020",The Binding (2016)
+http://3shop.link:25461/movie/admin/admin/1171.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Book of Mythical Beasts (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1B0gns8DaWpA6GnEjNhIbxogVkM.jpg" group-title="Movie-2020",The Book of Mythical Beasts (2020)
+http://3shop.link:25461/movie/admin/admin/1172.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Broken Hearts Gallery (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wGkr4r1e8nubmSNKJpv3HL6sFrA.jpg" group-title="Movie-2020",The Broken Hearts Gallery (2020)
+http://3shop.link:25461/movie/admin/admin/1173.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Craft: Legacy (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lhMIra0pqWNuD6CIXoTmGwZ0EBS.jpg" group-title="Movie-2020",The Craft: Legacy (2020)
+http://3shop.link:25461/movie/admin/admin/1174.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Cuban (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g2Sr6grnoj1fzMQCCs1nkRk1ZeB.jpg" group-title="Movie-2020",The Cuban (2020)
+http://3shop.link:25461/movie/admin/admin/1175.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Dark and the Wicked (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y63Sa7F2YFQPDSNQpS45p1iwTJ1.jpg" group-title="Movie-2020",The Dark and the Wicked (2020)
+http://3shop.link:25461/movie/admin/admin/1176.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Doorman (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pklyUbh4k1DbHdnsOMASyw7C6NH.jpg" group-title="Movie-2020",The Doorman (2020)
+http://3shop.link:25461/movie/admin/admin/1177.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Eight Hundred (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2tuJiQQUJNZgEmBgBfNVaYvAnPT.jpg" group-title="Movie-2020",The Eight Hundred (2020)
+http://3shop.link:25461/movie/admin/admin/1178.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Eye Of The Dragon Princess (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/htIuKqEWZOU18MVs59bKuolOt0J.jpg" group-title="Movie-2020",The Eye Of The Dragon Princess (2020)
+http://3shop.link:25461/movie/admin/admin/1179.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Last Exorcist (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ivWleLvEQkSJiJ2xw1IQjJWkldp.jpg" group-title="Movie-2020",The Last Exorcist (2020)
+http://3shop.link:25461/movie/admin/admin/1180.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Lego Star Wars Holiday Special (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zyzJSI7UZZzz5Toj10rYGF5689z.jpg" group-title="Movie-2020",The Lego Star Wars Holiday Special (2020)
+http://3shop.link:25461/movie/admin/admin/1181.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Magic Kids: Three Unlikely Heroes (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kbLDJ8bxEATrZkXopKBXQFzlSdq.jpg" group-title="Movie-2020",The Magic Kids: Three Unlikely Heroes (2020)
+http://3shop.link:25461/movie/admin/admin/1182.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Mongolian Connection (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjh2xNeW3gFeRD0npNtZqIuAPw4.jpg" group-title="Movie-2020",The Mongolian Connection (2019)
+http://3shop.link:25461/movie/admin/admin/1183.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Most Beautiful Retrograde" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mjh2xNeW3gFeRD0npNtZqIuAPw4.jpg" group-title="Movie-2020",The Most Beautiful Retrograde
+http://3shop.link:25461/movie/admin/admin/1184.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The New Mutants (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xZNw9xxtwbEf25NYoz52KdbXHPM.jpg" group-title="Movie-2020",The New Mutants (2020)
+http://3shop.link:25461/movie/admin/admin/1185.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Prisoner (1955)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XEIilG0LGwAPQtekJFXDA8crDf.jpg" group-title="Movie-2020",The Prisoner (1955)
+http://3shop.link:25461/movie/admin/admin/1186.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Trial of the Chicago 7 (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ahf5cVdooMAlDRiJOZQNuLqa1Is.jpg" group-title="Movie-2020",The Trial of the Chicago 7 (2020)
+http://3shop.link:25461/movie/admin/admin/1187.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Wish Upon a Unicorn (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9juXj68arIv7A20X7FAiJlJGSJd.jpg" group-title="Movie-2020",Wish Upon a Unicorn (2020)
+http://3shop.link:25461/movie/admin/admin/1188.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Young IP Man" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9juXj68arIv7A20X7FAiJlJGSJd.jpg" group-title="Movie-2020",Young IP Man
+http://3shop.link:25461/movie/admin/admin/1189.mp4
 
 #EXTINF:-1 tvg-id="" tvg-name="Ella Bella Bingo (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdK86hDn31gjtVJhMDB7ZMEAH8Z.jpg" group-title="Movie-2020",Ella Bella Bingo (2020)
 http://3shop.link:25461/movie/admin/admin/994.mp4
