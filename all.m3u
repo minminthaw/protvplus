@@ -1,4 +1,12 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="Sky Racing 1" tvg-logo="" group-title="All Sports",Sky Racing 1
+http://3shop.link:25461/admin/admin/1192
+#EXTINF:-1 tvg-id="" tvg-name="Sky Racint 2" tvg-logo="" group-title="All Sports",Sky Racing 2
+http://3shop.link:25461/admin/admin/1193
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="" group-title="All Sports",MLB Network
+http://3shop.link:25461/admin/admin/1195
+
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 1 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 1 HD(Thai)
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 1 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 1 HD
@@ -91,16 +99,12 @@ http://3shop.link:25461/admin/admin/271
 http://3shop.link:25461/admin/admin/272
 #EXTINF:-1 tvg-id="" tvg-name="UFC 3" tvg-logo="" group-title="All Sports",UFC 3
 http://3shop.link:25461/admin/admin/273
-#EXTINF:-1 tvg-id="" tvg-name="TV 5" tvg-logo="" group-title="Entertainment",TV 5
-http://3shop.link:25461/admin/admin/274
 #EXTINF:-1 tvg-id="" tvg-name="Sony Six HD" tvg-logo="" group-title="All Sports",Sony Six HD
 http://3shop.link:25461/admin/admin/40
 #EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="" group-title="All Sports",TVRI
 http://3shop.link:25461/admin/admin/45
 #EXTINF:-1 tvg-id="" tvg-name="DD Sport" tvg-logo="" group-title="All Sports",DD Sport
 http://3shop.link:25461/admin/admin/47
-#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="" group-title="Entertainment",Arirang
-http://3shop.link:25461/admin/admin/63
 #EXTINF:-1 tvg-id="" tvg-name="FC Bayern Live TV" tvg-logo="" group-title="All Sports",FC Bayern Live TV
 http://3shop.link:25461/admin/admin/65
 #EXTINF:-1 tvg-id="" tvg-name="Realmadrid TV" tvg-logo="" group-title="All Sports",Realmadrid TV
@@ -199,6 +203,7 @@ http://3shop.link:25461/admin/admin/920
 http://3shop.link:25461/admin/admin/923
 #EXTINF:-1 tvg-id="" tvg-name="博斯魅力" tvg-logo="https://pic.pimg.tw/sportcast/d28525d04fd7be954e32f9f0b344ee93_n.png" group-title="All Sports",博斯魅力
 http://3shop.link:25461/admin/admin/933
+
 
 
 
@@ -313,7 +318,12 @@ http://3shop.link:25461/admin/admin/836
 #EXTINF:-1 tvg-id="" tvg-name="Wixlar" tvg-logo="https://i.imgur.com/hfia0wN.png" group-title="Movies",Wixlar
 http://3shop.link:25461/admin/admin/837
 
-
+#EXTINF:-1 tvg-id="" tvg-name="India: Zee Cinema" tvg-logo="" group-title="Movies",India: Zee Cinema
+http://3shop.link:25461/admin/admin/212
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movie Action" tvg-logo="" group-title="Movies",Sony Movie Action
+http://3shop.link:25461/admin/admin/1190
+#EXTINF:-1 tvg-id="" tvg-name="Film 4" tvg-logo="" group-title="Movies",Film 4
+http://3shop.link:25461/admin/admin/1191
 
 
 ###########################################################################################################################################################
@@ -385,8 +395,12 @@ http://3shop.link:25461/admin/admin/279
 #EXTINF:-1 tvg-id="" tvg-name="Zee Tamil" tvg-logo="" group-title="Entertainment",Zee Tamil
 http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/100653
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="TV 5" tvg-logo="" group-title="Entertainment",TV 5
+http://3shop.link:25461/admin/admin/274
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature HD" tvg-logo="" group-title="Entertainment",Love Nature HD
+http://3shop.link:25461/admin/admin/1194
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="" group-title="Entertainment",Arirang
+http://3shop.link:25461/admin/admin/63
 ###########################################################################################################################################################
 
 
