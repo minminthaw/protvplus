@@ -107,7 +107,12 @@ http://3shop.link:25461/admin/admin/836
 #EXTINF:-1 tvg-id="" tvg-name="Wixlar" tvg-logo="https://i.imgur.com/hfia0wN.png" group-title="Movies",Wixlar
 http://3shop.link:25461/admin/admin/837
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Sony Movie Action" tvg-logo="" group-title="Movies",Sony Movie Action
+http://3shop.link:25461/admin/admin/1190
+#EXTINF:-1 tvg-id="" tvg-name="Film 4" tvg-logo="" group-title="Movies",Film 4
+http://3shop.link:25461/admin/admin/1191
+#EXTINF:-1 tvg-id="" tvg-name="India: Zee Cinema" tvg-logo="" group-title="Movies",India: Zee Cinema
+http://3shop.link:25461/admin/admin/212
 
 
 ###########################################################################################################################################################
@@ -178,7 +183,12 @@ http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 http://3shop.link:25461/admin/admin/279
 #EXTINF:-1 tvg-id="" tvg-name="Zee Tamil" tvg-logo="" group-title="Entertainment",Zee Tamil
 http://sharkiptvpro.live:80/Donmas_x/hU1v2n04gY/100653
-
+#EXTINF:-1 tvg-id="" tvg-name="TV 5" tvg-logo="" group-title="Entertainment",TV 5
+http://3shop.link:25461/admin/admin/274
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature HD" tvg-logo="" group-title="Entertainment",Love Nature HD
+http://3shop.link:25461/admin/admin/1194
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="" group-title="Entertainment",Arirang
+http://3shop.link:25461/admin/admin/63
 
 
 ###########################################################################################################################################################
