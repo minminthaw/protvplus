@@ -116,8 +116,10 @@ http://3shop.link:25461/admin/admin/212
 
 
 ###########################################################################################################################################################
-
-
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery Channel" tvg-logo="" group-title="Entertainment",UK: Discovery Channel
+http://3shop.link:25461/admin/admin/1207
+#EXTINF:-1 tvg-id="" tvg-name="US: Fail Army" tvg-logo="" group-title="Entertainment",US: Fail Army
+http://3shop.link:25461/admin/admin/1215
 
 #EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Asia" tvg-logo="" group-title="Entertainment",TV5 Monde Asia
 http://3shop.link:25461/admin/admin/938
@@ -508,6 +510,12 @@ http://3shop.link:25461/admin/admin/691
 #EXTINF:-1 tvg-id="" tvg-name="心约之声公益广播" tvg-logo="" group-title="China",心约之声公益广播
 http://3shop.link:25461/admin/admin/702
 
+
+######################################################################################## USA Channels ###################################################################
+#EXTINF:-1 tvg-id="" tvg-name="American Horror" tvg-logo="" group-title="USA",American Horror
+http://3shop.link:25461/admin/admin/1210
+#EXTINF:-1 tvg-id="" tvg-name="Classic Cinema" tvg-logo="" group-title="USA",Classic Cinema
+http://3shop.link:25461/admin/admin/1213
 
 ############################################################################ Movie - 2020 ###############################################################################
 
@@ -1043,10 +1051,10 @@ http://3shop.link:25461/movie/admin/admin/973.mp4
 
 
 
-###########################################################################################################################################################
+########################################################################### Movie - 2018 and Older ################################################################################
 
-
-
+#EXTINF:-1 tvg-id="" tvg-name="Miss Peregrine's Home for Peculiar Children (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzYkC0vqX8Dokuwynhz1lnWWgWT.jpg" group-title="Movie-Latest Added",Miss Peregrine's Home for Peculiar Children (2016)
+http://3shop.link:25461/movie/admin/admin/1196.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Bumblebee (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fw02ONlDhrYjTSZV8XO6hhU3ds3.jpg" group-title="Movie-2018 and older",Bumblebee (2018)
 http://3shop.link:25461/movie/admin/admin/128.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Cold War (2018)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6rbS8oPIgUMhQgIX8oGVTtlNgLR.jpg" group-title="Movie-2018 and older",Cold War (2018)
