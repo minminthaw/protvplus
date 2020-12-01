@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="" group-title="All Sports",Tennis Channel
+http://3shop.link:25461/admin/admin/1208
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Racing 1" tvg-logo="" group-title="All Sports",Sky Racing 1
 http://3shop.link:25461/admin/admin/1192
 #EXTINF:-1 tvg-id="" tvg-name="Sky Racint 2" tvg-logo="" group-title="All Sports",Sky Racing 2
@@ -28,6 +31,26 @@ http://3shop.link:25461/admin/admin/21
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 8 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 8 HD
 http://3shop.link:25461/admin/admin/26
 
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga" tvg-logo="" group-title="All Sports",Sky Sport Bundesliga
+http://3shop.link:25461/admin/admin/1197
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1" tvg-logo="" group-title="All Sports",Sky Sport 1
+http://3shop.link:25461/admin/admin/1198
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2" tvg-logo="" group-title="All Sports",Sky Sport 2
+http://3shop.link:25461/admin/admin/1199
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 1: Backup" tvg-logo="" group-title="All Sports",Bein Sport 1: Backup
+http://3shop.link:25461/admin/admin/1200
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 2: Backup" tvg-logo="" group-title="All Sports",Bein Sport 2: Backup
+http://3shop.link:25461/admin/admin/1201
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 4: Backup" tvg-logo="" group-title="All Sports",Bein Sport 4: Backup
+http://3shop.link:25461/admin/admin/1202
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 5: Backup" tvg-logo="" group-title="All Sports",Bein Sport 5: Backup
+http://3shop.link:25461/admin/admin/1203
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 6: Backup" tvg-logo="" group-title="All Sports",Bein Sport 6: Backup
+http://3shop.link:25461/admin/admin/1204
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 7: Backup" tvg-logo="" group-title="All Sports",Bein Sport 7: Backup
+http://3shop.link:25461/admin/admin/1205
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sport 8: Backup" tvg-logo="" group-title="All Sports",Bein Sport 8: Backup
+http://3shop.link:25461/admin/admin/1206
 
 #EXTINF:-1 tvg-id="" tvg-name="True Premier Football 1 HD" tvg-logo="" group-title="All Sports",True Premier Football 1 HD
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
@@ -48,8 +71,6 @@ http://3shop.link:25461/admin/admin/7
 #EXTINF:-1 tvg-id="" tvg-name="Digi Sport 2" tvg-logo="" group-title="All Sports",Digi Sport 2
 http://3shop.link:25461/admin/admin/8
 
-#EXTINF:-1 tvg-id="" tvg-name="India: Color Infinity" tvg-logo="" group-title="Entertainment",India: Color Infinity
-http://3shop.link:25461/admin/admin/11
 #EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass" tvg-logo="" group-title="All Sports",UFC Fight Pass
 http://3shop.link:25461/admin/admin/12
 
@@ -204,8 +225,23 @@ http://3shop.link:25461/admin/admin/923
 #EXTINF:-1 tvg-id="" tvg-name="博斯魅力" tvg-logo="https://pic.pimg.tw/sportcast/d28525d04fd7be954e32f9f0b344ee93_n.png" group-title="All Sports",博斯魅力
 http://3shop.link:25461/admin/admin/933
 
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sport HD" tvg-logo="" group-title="All Sports",Skynet Sport HD
+http://3shop.link:25461/admin/admin/1217
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sport 1" tvg-logo="" group-title="All Sports",Skynet Sport 1
+http://3shop.link:25461/admin/admin/1218
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sport 2" tvg-logo="" group-title="All Sports",Skynet Sport 2
+http://3shop.link:25461/admin/admin/1219
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sport 3" tvg-logo="" group-title="All Sports",Skynet Sport 3
+http://3shop.link:25461/admin/admin/1220
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sport 4" tvg-logo="" group-title="All Sports",Skynet Sport 4
+http://3shop.link:25461/admin/admin/1221
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sport 5" tvg-logo="" group-title="All Sports",Skynet Sport 5
+http://3shop.link:25461/admin/admin/1222
+#EXTINF:-1 tvg-id="" tvg-name="Skynet Sport 6" tvg-logo="" group-title="All Sports",Skynet Sport 6
+http://3shop.link:25461/admin/admin/1223
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="" group-title="All Sports",Edge Sport
+http://3shop.link:25461/admin/admin/1214
 
 ###########################################################################################################################################################
 
@@ -328,8 +364,13 @@ http://3shop.link:25461/admin/admin/1191
 
 ###########################################################################################################################################################
 
+#EXTINF:-1 tvg-id="" tvg-name="UK: Discovery Channel" tvg-logo="" group-title="Entertainment",UK: Discovery Channel
+http://3shop.link:25461/admin/admin/1207
 
-
+#EXTINF:-1 tvg-id="" tvg-name="India: Color Infinity" tvg-logo="" group-title="Entertainment",India: Color Infinity
+http://3shop.link:25461/admin/admin/11
+#EXTINF:-1 tvg-id="" tvg-name="US: Fail Army" tvg-logo="" group-title="Entertainment",US: Fail Army
+http://3shop.link:25461/admin/admin/1215
 #EXTINF:-1 tvg-id="" tvg-name="TV5 Monde Asia" tvg-logo="" group-title="Entertainment",TV5 Monde Asia
 http://3shop.link:25461/admin/admin/938
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="" group-title="Entertainment",WWE Network
@@ -770,6 +811,11 @@ http://3shop.link:25461/admin/admin/266
 #EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="" group-title="News",Sky News
 http://3shop.link:25461/admin/admin/267
 
+######################################################################################## USA Channels ###################################################################
+#EXTINF:-1 tvg-id="" tvg-name="American Horror" tvg-logo="" group-title="USA",American Horror
+http://3shop.link:25461/admin/admin/1210
+#EXTINF:-1 tvg-id="" tvg-name="Classic Cinema" tvg-logo="" group-title="USA",Classic Cinema
+http://3shop.link:25461/admin/admin/1213
 
 
 
@@ -1305,7 +1351,7 @@ http://3shop.link:25461/movie/admin/admin/973.mp4
 
 
 
-###########################################################################################################################################################
+###################################################################### Movie - 2019 #####################################################################################
 
 
 
@@ -1334,7 +1380,7 @@ http://3shop.link:25461/movie/admin/admin/127.mp4
 
 
 
-###########################################################################################################################################################
+########################################################################### Movie - 2018 and Older  ################################################################################
 
 
 
@@ -1388,12 +1434,11 @@ http://3shop.link:25461/movie/admin/admin/150.mkv
 http://3shop.link:25461/movie/admin/admin/151.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Dredd (2012)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wLx65gtGVnUFCxceHWGszcruCZj.jpg" group-title="Movie-2018 and older",Dredd (2012)
 http://3shop.link:25461/movie/admin/admin/957.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Miss Peregrine's Home for Peculiar Children (2016)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tzYkC0vqX8Dokuwynhz1lnWWgWT.jpg" group-title="Movie-Latest Added",Miss Peregrine's Home for Peculiar Children (2016)
+http://3shop.link:25461/movie/admin/admin/1196.mp4
 
 
-
-###########################################################################################################################################################
-
-
+######################################################################  Movie - Latest Added#####################################################################################
 
 
 #EXTINF:-1 tvg-id="" tvg-name="12SuicidalTeens-2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7bsLSuEg3FuCY1o7uSzbxMUJLB.jpg" group-title="Movie-Latest Added",12SuicidalTeens-2019
@@ -1469,10 +1514,10 @@ http://3shop.link:25461/movie/admin/admin/201.mp4
 
 
 
-###########################################################################################################################################################
+######################################################################### Serie- Latest Added  ##################################################################################
 
 
-
+## The Queen's Gambit - 2020 ##
 #EXTINF:-1 tvg-id="" tvg-name="The Queen's Gambit S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300/4taUmpWKaTH2dRisytelueNoo8s.jpg" group-title="Serie-Latest Added",The Queen's Gambit S01 E01
 http://3shop.link:25461/series/admin/admin/218.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Queen's Gambit S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300/gmNLUrlRLPS5evVvh0wEI5I4cIs.jpg" group-title="Serie-Latest Added",The Queen's Gambit S01 E02
@@ -1485,7 +1530,10 @@ http://3shop.link:25461/series/admin/admin/221.mp4
 http://3shop.link:25461/series/admin/admin/1041.mp4
 #EXTINF:-1 tvg-id="" tvg-name="The Queen's Gambit S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300/hcPwSnmUAoCGDJInlt82SlKCMjO.jpg" group-title="Serie-Latest Added",The Queen's Gambit S01 E06
 http://3shop.link:25461/series/admin/admin/1042.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Queen's Gambit S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300/mKRLkntwgMThg5U8iJcpDj4ewMc.jpg" group-title="Serie-Latest Added",The Queen's Gambit S01 E07
+http://3shop.link:25461/series/admin/admin/1216.mp4
 
+## Warrior Nun - 2020 ##
 #EXTINF:-1 tvg-id="" tvg-name="Warrior Nun S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/esKvSpN04q7RNOLaFAVQ7rMHPM0.jpg" group-title="Serie-2020",Warrior Nun S01 E01
 http://3shop.link:25461/series/admin/admin/1088.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Warrior Nun S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eZ8LNZJTP4x3TCegbZoa4d8rff3.jpg" group-title="Serie-2020",Warrior Nun S01 E02
@@ -1507,7 +1555,7 @@ http://3shop.link:25461/series/admin/admin/1097.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Warrior Nun S01 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1oUs7yFKmm9BHamFBD2n2tOconO.jpg" group-title="Serie-2020",Warrior Nun S01 E10
 http://3shop.link:25461/series/admin/admin/1089.mp4
 
-
+## Train-2020 ##
 #EXTINF:-1 tvg-id="" tvg-name="Train(2020) S01 E01" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNkZDRiMzktOGIxOS00NjBjLWEyNzMtNDA4NDQxYjdhN2JkXkEyXkFqcGdeQXVyNDU4MDQ0MjM@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="Serie-2020",Train(2020) S01 E01
 http://3shop.link:25461/series/admin/admin/1110.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Train(2020) S01 E02" tvg-logo="https://m.media-amazon.com/images/M/MV5BMGNkZDRiMzktOGIxOS00NjBjLWEyNzMtNDA4NDQxYjdhN2JkXkEyXkFqcGdeQXVyNDU4MDQ0MjM@._V1_UY268_CR4,0,182,268_AL_.jpg" group-title="Serie-2020",Train(2020) S01 E02
