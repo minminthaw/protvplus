@@ -150,8 +150,6 @@ https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 5" tvg-logo="" group-title="All Sports",Sport TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="RTV Sport" tvg-logo="" group-title="All Sports",RTV Sport
-http://3shop.link:25461/admin/admin/309
 
 #EXTINF:-1 tvg-id="" tvg-name="Dubai Sport 1" tvg-logo="" group-title="All Sports",Dubai Sport 1
 http://3shop.link:25461/admin/admin/314
@@ -172,8 +170,6 @@ http://3shop.link:25461/admin/admin/246
 #EXTINF:-1 tvg-id="" tvg-name="Abu Dhabi Sport 4" tvg-logo="" group-title="All Sports",Abu Dhabi Sport 4
 http://3shop.link:25461/admin/admin/247
 
-#EXTINF:-1 tvg-id="" tvg-name="Ten Sport" tvg-logo="" group-title="All Sports",Ten Sport
-http://3shop.link:25461/admin/admin/255
 #EXTINF:-1 tvg-id="" tvg-name="Fight Sport" tvg-logo="" group-title="All Sports",Fight Sport
 http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/02.m3u8
 
@@ -403,8 +399,6 @@ http://3shop.link:25461/admin/admin/51
 http://3shop.link:25461/admin/admin/52
 #EXTINF:-1 tvg-id="" tvg-name="&Prive HD" tvg-logo="" group-title="Entertainment",&Prive HD
 http://3shop.link:25461/admin/admin/54
-#EXTINF:-1 tvg-id="" tvg-name="Korea: KBS World" tvg-logo="" group-title="Entertainment",Korea: KBS World
-http://3shop.link:25461/admin/admin/71
 #EXTINF:-1 tvg-id="" tvg-name="Japan: NHK World" tvg-logo="" group-title="Entertainment",Japan: NHK World
 http://3shop.link:25461/admin/admin/72
 #EXTINF:-1 tvg-id="" tvg-name="RedBull TV" tvg-logo="" group-title="Entertainment",RedBull TV
@@ -421,8 +415,6 @@ http://3shop.link:25461/admin/admin/238
 http://3shop.link:25461/admin/admin/240
 #EXTINF:-1 tvg-id="" tvg-name="India: Zee Tamil" tvg-logo="" group-title="Entertainment",India: Zee Tamil
 http://3shop.link:25461/admin/admin/241
-#EXTINF:-1 tvg-id="" tvg-name="India: Sun TV" tvg-logo="" group-title="Entertainment",India: Sun TV
-http://3shop.link:25461/admin/admin/242
 #EXTINF:-1 tvg-id="" tvg-name="MBC Max HD" tvg-logo="" group-title="Entertainment",MBC Max HD
 http://3shop.link:25461/admin/admin/249
 #EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="" group-title="Entertainment",Colors HD
