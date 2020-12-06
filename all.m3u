@@ -204,8 +204,11 @@ http://3shop.link:25461/admin/admin/21
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 8 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 8 HD
 http://3shop.link:25461/admin/admin/26
 
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sport Bundesliga" tvg-logo="" group-title="All Sports",Sky Sport Bundesliga
-http://3shop.link:25461/admin/admin/1197
+#EXTINF:-1 tvg-id="" tvg-name="Star Sport Select 1 HD" tvg-logo="" group-title="All Sports",Star Sport Select 1 HD
+http://3shop.link:25461/admin/admin/1422
+#EXTINF:-1 tvg-id="" tvg-name="Star Sport Select 2 HD" tvg-logo="" group-title="All Sports",Star Sport Select 2 HD
+http://3shop.link:25461/admin/admin/1423
+
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1" tvg-logo="" group-title="All Sports",Sky Sport 1
 http://3shop.link:25461/admin/admin/1198
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 2" tvg-logo="" group-title="All Sports",Sky Sport 2
@@ -410,8 +413,9 @@ http://3shop.link:25461/admin/admin/1223
 
 #EXTINF:-1 tvg-id="" tvg-name="Edge Sport" tvg-logo="" group-title="All Sports",Edge Sport
 http://3shop.link:25461/admin/admin/1214
-
-###########################################################################################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD" tvg-logo="" group-title="All Sports",Bein Sports HD
+http://3shop.link:25461/admin/admin/268
+########################################################################### Kids ################################################################################
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Disnep HD" tvg-logo="" group-title="Kids",Disnep HD
@@ -430,13 +434,25 @@ http://3shop.link:25461/admin/admin/258
 http://3shop.link:25461/admin/admin/269
 #EXTINF:-1 tvg-id="" tvg-name="Talking Tom" tvg-logo="" group-title="Kids",Talking Tom
 http://3shop.link:25461/admin/admin/270
-#EXTINF:-1 tvg-id="" tvg-name="Bein Sports HD" tvg-logo="" group-title="All Sports",Bein Sports HD
-http://3shop.link:25461/admin/admin/268
+
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="" group-title="Kids",Aniplus
+http://3shop.link:25461/admin/admin/1397
+#EXTINF:-1 tvg-id="" tvg-name="TVO Kids" tvg-logo="" group-title="Kids",TVO Kids
+http://3shop.link:25461/admin/admin/1394
 
 
+######################################################################   UK   #####################################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Venus TV" tvg-logo="" group-title="UK Channels",Venus TV
+http://3shop.link:25461/admin/admin/1379
+#EXTINF:-1 tvg-id="" tvg-name="Sheffield Live TV" tvg-logo="" group-title="UK Channels",Sheffield Live TV
+http://3shop.link:25461/admin/admin/1380
+#EXTINF:-1 tvg-id="" tvg-name="MTA Africa" tvg-logo="" group-title="UK Channels",MTA Africa
+http://3shop.link:25461/admin/admin/1381
+#EXTINF:-1 tvg-id="" tvg-name="Horse & Country TV" tvg-logo="" group-title="UK Channels",Horse & Country TV
+http://3shop.link:25461/admin/admin/1384
 
 
-###########################################################################################################################################################
+######################################################################   Movies   #####################################################################################
 
 
 #EXTINF:-1 tvg-id="" tvg-name="raw-AXN HD" tvg-logo="" group-title="Movies",raw-AXN HD
@@ -445,6 +461,8 @@ https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 http://3shop.link:25461/admin/admin/937
 #EXTINF:-1 tvg-id="" tvg-name="IN: Movies Now" tvg-logo="" group-title="Movies",IN: Movies Now
 http://3shop.link:25461/admin/admin/18
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="" group-title="Movies",Cinema World
+http://3shop.link:25461/admin/admin/1396
 #EXTINF:-1 tvg-id="" tvg-name="Sony TV HD" tvg-logo="" group-title="Movies",Sony TV HD
 http://3shop.link:25461/admin/admin/34
 #EXTINF:-1 tvg-id="" tvg-name="Sony Max HD" tvg-logo="" group-title="Movies",Sony Max HD
@@ -548,6 +566,12 @@ http://3shop.link:25461/admin/admin/28
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Entertainment",Nat Geo Wild
 http://3shop.link:25461/admin/admin/29
 
+#EXTINF:-1 tvg-id="" tvg-name="TVRI Kanal" tvg-logo="" group-title="Entertainment",TVRI Kanal
+http://3shop.link:25461/admin/admin/1395
+
+#EXTINF:-1 tvg-id="" tvg-name="Egg Network" tvg-logo="" group-title="Entertainment",Egg Network
+http://3shop.link:25461/admin/admin/1398
+
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild(Thai)" tvg-logo="" group-title="Entertainment",Nat Geo Wild(Thai)
 https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 
@@ -646,8 +670,9 @@ http://3shop.link:25461/admin/admin/213
 
 
 
-###########################################################################################################################################################
-
+############################################################################ Thailand ###############################################################################
+#EXTINF:-1 tvg-id="" tvg-name="Thairath TV 32 HD" tvg-logo="" group-title="Thailand",Thairath TV 32 HD
+http://3shop.link:25461/admin/admin/1404
 #EXTINF:-1 tvg-id="" tvg-name="8 HD" tvg-logo="" group-title="Thailand",8 HD
 https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 8 Thailand" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" group-title="Thailand",Channel 8 Thailand
