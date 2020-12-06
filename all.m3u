@@ -682,16 +682,12 @@ http://3shop.link:25461/admin/admin/340
 http://3shop.link:25461/admin/admin/342
 #EXTINF:-1 tvg-id="" tvg-name="CCTV中国中央电视台-1 综合" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/65/CCTV-1_Logo.png" group-title="China",CCTV中国中央电视台-1 综合
 http://3shop.link:25461/admin/admin/344
-#EXTINF:-1 tvg-id="" tvg-name="CCTV中国中央电视台-10 科教" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/fd/CCTV-10_Logo.png" group-title="China",CCTV中国中央电视台-10 科教
-http://3shop.link:25461/admin/admin/349
 #EXTINF:-1 tvg-id="" tvg-name="CCTV中国中央电视台-11 戏曲" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9c/CCTV-11_Logo.png" group-title="China",CCTV中国中央电视台-11 戏曲
 http://3shop.link:25461/admin/admin/351
 #EXTINF:-1 tvg-id="" tvg-name="CCTV中国中央电视台-12 社会与法制" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/71/CCTV-12_Logo.png" group-title="China",CCTV中国中央电视台-12 社会与法制
 http://3shop.link:25461/admin/admin/354
 #EXTINF:-1 tvg-id="" tvg-name="CCTV中国中央电视台-13 新闻" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0b/CCTV-13_Logo.png" group-title="China",CCTV中国中央电视台-13 新闻
 http://3shop.link:25461/admin/admin/356
-#EXTINF:-1 tvg-id="" tvg-name="CCTV中国中央电视台-14 少儿" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="China",CCTV中国中央电视台-14 少儿
-http://3shop.link:25461/admin/admin/359
 #EXTINF:-1 tvg-id="" tvg-name="CCTV中国中央电视台-14 少儿" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png" group-title="China",CCTV中国中央电视台-14 少儿
 http://3shop.link:25461/admin/admin/360
 #EXTINF:-1 tvg-id="" tvg-name="CCTV中国中央电视台-15 音乐" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f8/CCTV-15_Logo.png" group-title="China",CCTV中国中央电视台-15 音乐
@@ -712,8 +708,6 @@ http://3shop.link:25461/admin/admin/393
 http://3shop.link:25461/admin/admin/398
 #EXTINF:-1 tvg-id="" tvg-name="NewTV未来电视 明星大片 (Backup)" tvg-logo="http://www.nettv.live/uploads/18/1-1P42616140Na.jpg" group-title="China",NewTV未来电视 明星大片 (Backup)
 http://3shop.link:25461/admin/admin/410
-#EXTINF:-1 tvg-id="" tvg-name="NewTV未来电视 炫舞未来" tvg-logo="http://www.nettv.live/uploads/19/1-191215192034I5.jpg" group-title="China",NewTV未来电视 炫舞未来
-http://3shop.link:25461/admin/admin/413
 #EXTINF:-1 tvg-id="" tvg-name="NewTV未来电视 精品记录" tvg-logo="http://www.nettv.live/uploads/18/1-1P426223225b6.jpg" group-title="China",NewTV未来电视 精品记录
 http://3shop.link:25461/admin/admin/416
 #EXTINF:-1 tvg-id="" tvg-name="万州三峡移民" tvg-logo="" group-title="China",万州三峡移民
@@ -724,8 +718,6 @@ http://3shop.link:25461/admin/admin/420
 http://3shop.link:25461/admin/admin/421
 #EXTINF:-1 tvg-id="" tvg-name="万盛新闻综合" tvg-logo="" group-title="China",万盛新闻综合
 http://3shop.link:25461/admin/admin/422
-#EXTINF:-1 tvg-id="" tvg-name="三亚新闻综合" tvg-logo="" group-title="China",三亚新闻综合
-http://3shop.link:25461/admin/admin/424
 #EXTINF:-1 tvg-id="" tvg-name="三明新闻综合" tvg-logo="" group-title="China",三明新闻综合
 http://3shop.link:25461/admin/admin/426
 #EXTINF:-1 tvg-id="" tvg-name="上海这一刻陆家嘴" tvg-logo="" group-title="China",上海这一刻陆家嘴
@@ -736,10 +728,6 @@ http://3shop.link:25461/admin/admin/429
 http://3shop.link:25461/admin/admin/430
 #EXTINF:-1 tvg-id="" tvg-name="上海金山电视台" tvg-logo="" group-title="China",上海金山电视台
 http://3shop.link:25461/admin/admin/431
-#EXTINF:-1 tvg-id="" tvg-name="东方卫视FHD" tvg-logo="" group-title="China",东方卫视FHD
-http://3shop.link:25461/admin/admin/442
-#EXTINF:-1 tvg-id="" tvg-name="东昌导视频道" tvg-logo="" group-title="China",东昌导视频道
-http://3shop.link:25461/admin/admin/445
 #EXTINF:-1 tvg-id="" tvg-name="东阳影视生活" tvg-logo="" group-title="China",东阳影视生活
 http://3shop.link:25461/admin/admin/449
 #EXTINF:-1 tvg-id="" tvg-name="东阳新闻综合" tvg-logo="" group-title="China",东阳新闻综合
@@ -748,14 +736,8 @@ http://3shop.link:25461/admin/admin/450
 http://3shop.link:25461/admin/admin/454
 #EXTINF:-1 tvg-id="" tvg-name="中牟综合频道" tvg-logo="" group-title="China",中牟综合频道
 http://3shop.link:25461/admin/admin/456
-#EXTINF:-1 tvg-id="" tvg-name="临漳公共频道" tvg-logo="" group-title="China",临漳公共频道
-http://3shop.link:25461/admin/admin/458
-#EXTINF:-1 tvg-id="" tvg-name="临漳百姓频道" tvg-logo="" group-title="China",临漳百姓频道
-http://3shop.link:25461/admin/admin/459
 #EXTINF:-1 tvg-id="" tvg-name="乐清新闻频道" tvg-logo="" group-title="China",乐清新闻频道
 http://3shop.link:25461/admin/admin/462
-#EXTINF:-1 tvg-id="" tvg-name="乐清生活频道" tvg-logo="" group-title="China",乐清生活频道
-http://3shop.link:25461/admin/admin/463
 #EXTINF:-1 tvg-id="" tvg-name="九寨沟新闻综合" tvg-logo="https://www.nettv.live/uploads/18/1-1PHGR51W24.jpg" group-title="China",九寨沟新闻综合
 http://3shop.link:25461/admin/admin/464
 #EXTINF:-1 tvg-id="" tvg-name="九寨沟新闻综合" tvg-logo="" group-title="China",九寨沟新闻综合
@@ -764,14 +746,8 @@ http://3shop.link:25461/admin/admin/465
 http://3shop.link:25461/admin/admin/466
 #EXTINF:-1 tvg-id="" tvg-name="九寨沟旅游资讯" tvg-logo="" group-title="China",九寨沟旅游资讯
 http://3shop.link:25461/admin/admin/467
-#EXTINF:-1 tvg-id="" tvg-name="五星体育" tvg-logo="" group-title="China",五星体育
-http://3shop.link:25461/admin/admin/473
-#EXTINF:-1 tvg-id="" tvg-name="五星体育蓝光" tvg-logo="" group-title="China",五星体育蓝光
-http://3shop.link:25461/admin/admin/474
 #EXTINF:-1 tvg-id="" tvg-name="亚太台" tvg-logo="" group-title="China",亚太台
 http://3shop.link:25461/admin/admin/475
-#EXTINF:-1 tvg-id="" tvg-name="亳州农村" tvg-logo="http://www.tvyan.com/uploads/dianshi/bozhounongcun.jpg" group-title="China",亳州农村
-http://3shop.link:25461/admin/admin/476
 #EXTINF:-1 tvg-id="" tvg-name="仙桃新闻综合" tvg-logo="" group-title="China",仙桃新闻综合
 http://3shop.link:25461/admin/admin/480
 #EXTINF:-1 tvg-id="" tvg-name="仙桃生活文体" tvg-logo="" group-title="China",仙桃生活文体
@@ -786,8 +762,6 @@ http://3shop.link:25461/admin/admin/488
 http://3shop.link:25461/admin/admin/489
 #EXTINF:-1 tvg-id="" tvg-name="假面骑士HD" tvg-logo="" group-title="China",假面骑士HD
 http://3shop.link:25461/admin/admin/491
-#EXTINF:-1 tvg-id="" tvg-name="公共农村" tvg-logo="" group-title="China",公共农村
-http://3shop.link:25461/admin/admin/492
 #EXTINF:-1 tvg-id="" tvg-name="六安公共频道" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="China",六安公共频道
 http://3shop.link:25461/admin/admin/493
 #EXTINF:-1 tvg-id="" tvg-name="六安新闻综合" tvg-logo="http://www.china-latv.com/t/icon/201901/20190107160038YJK.png" group-title="China",六安新闻综合
@@ -828,14 +802,6 @@ http://3shop.link:25461/admin/admin/548
 http://3shop.link:25461/admin/admin/549
 #EXTINF:-1 tvg-id="" tvg-name="博州维语综合" tvg-logo="" group-title="China",博州维语综合
 http://3shop.link:25461/admin/admin/550
-#EXTINF:-1 tvg-id="" tvg-name="厦视一套" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="China",厦视一套
-http://3shop.link:25461/admin/admin/551
-#EXTINF:-1 tvg-id="" tvg-name="厦视二套" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="China",厦视二套
-http://3shop.link:25461/admin/admin/552
-#EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="China",厦门卫视
-http://3shop.link:25461/admin/admin/553
-#EXTINF:-1 tvg-id="" tvg-name="厦门卫视XMTV Star" tvg-logo="https://i.imgur.com/tt45Gmm.jpg" group-title="China",厦门卫视XMTV Star
-http://3shop.link:25461/admin/admin/554
 #EXTINF:-1 tvg-id="" tvg-name="古墓兽影" tvg-logo="" group-title="China",古墓兽影
 http://3shop.link:25461/admin/admin/557
 #EXTINF:-1 tvg-id="" tvg-name="句容影视" tvg-logo="" group-title="China",句容影视
@@ -848,10 +814,6 @@ http://3shop.link:25461/admin/admin/561
 http://3shop.link:25461/admin/admin/562
 #EXTINF:-1 tvg-id="" tvg-name="吴江新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/wujiangtv.jpg" group-title="China",吴江新闻综合
 http://3shop.link:25461/admin/admin/572
-#EXTINF:-1 tvg-id="" tvg-name="周口新闻综合2" tvg-logo="" group-title="China",周口新闻综合2
-http://3shop.link:25461/admin/admin/574
-#EXTINF:-1 tvg-id="" tvg-name="咸宁综合频道" tvg-logo="" group-title="China",咸宁综合频道
-http://3shop.link:25461/admin/admin/578
 #EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="" group-title="China",嘉佳卡通
 http://3shop.link:25461/admin/admin/582
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="" group-title="China",四川卫视
@@ -860,18 +822,12 @@ http://3shop.link:25461/admin/admin/587
 http://3shop.link:25461/admin/admin/590
 #EXTINF:-1 tvg-id="" tvg-name="壤塘综合频道" tvg-logo="" group-title="China",壤塘综合频道
 http://3shop.link:25461/admin/admin/591
-#EXTINF:-1 tvg-id="" tvg-name="大冶一套" tvg-logo="" group-title="China",大冶一套
-http://3shop.link:25461/admin/admin/592
-#EXTINF:-1 tvg-id="" tvg-name="大冶二套" tvg-logo="" group-title="China",大冶二套
-http://3shop.link:25461/admin/admin/593
 #EXTINF:-1 tvg-id="" tvg-name="奉化生活娱乐" tvg-logo="" group-title="China",奉化生活娱乐
 http://3shop.link:25461/admin/admin/606
 #EXTINF:-1 tvg-id="" tvg-name="娄底综合频道" tvg-logo="" group-title="China",娄底综合频道
 http://3shop.link:25461/admin/admin/608
 #EXTINF:-1 tvg-id="" tvg-name="宁化电视一套" tvg-logo="" group-title="China",宁化电视一套
 http://3shop.link:25461/admin/admin/611
-#EXTINF:-1 tvg-id="" tvg-name="安徽卫视高清" tvg-logo="" group-title="China",安徽卫视高清
-http://3shop.link:25461/admin/admin/621
 #EXTINF:-1 tvg-id="" tvg-name="安徽新闻综合广播" tvg-logo="" group-title="China",安徽新闻综合广播
 http://3shop.link:25461/admin/admin/624
 #EXTINF:-1 tvg-id="" tvg-name="安徽音乐广播" tvg-logo="" group-title="China",安徽音乐广播
@@ -886,26 +842,6 @@ http://3shop.link:25461/admin/admin/630
 http://3shop.link:25461/admin/admin/631
 #EXTINF:-1 tvg-id="" tvg-name="宣汉城市公众" tvg-logo="" group-title="China",宣汉城市公众
 http://3shop.link:25461/admin/admin/633
-#EXTINF:-1 tvg-id="" tvg-name="宿州公共频道" tvg-logo="" group-title="China",宿州公共频道
-http://3shop.link:25461/admin/admin/635
-#EXTINF:-1 tvg-id="" tvg-name="宿州科教" tvg-logo="http://www.66zhibo.net/d/file/2018/0711/f91966206d646e5cc94ca9e597b855ec.jpg" group-title="China",宿州科教
-http://3shop.link:25461/admin/admin/637
-#EXTINF:-1 tvg-id="" tvg-name="嵊州综合" tvg-logo="" group-title="China",嵊州综合
-http://3shop.link:25461/admin/admin/653
-#EXTINF:-1 tvg-id="" tvg-name="巴中公共频道" tvg-logo="" group-title="China",巴中公共频道
-http://3shop.link:25461/admin/admin/654
-#EXTINF:-1 tvg-id="" tvg-name="巴中综合频道" tvg-logo="" group-title="China",巴中综合频道
-http://3shop.link:25461/admin/admin/655
-#EXTINF:-1 tvg-id="" tvg-name="平乡电视台" tvg-logo="http://www.tvyan.com/uploads/dianshi/pingxiangtai.jpg" group-title="China",平乡电视台
-http://3shop.link:25461/admin/admin/656
-#EXTINF:-1 tvg-id="" tvg-name="平乡综合频道" tvg-logo="" group-title="China",平乡综合频道
-http://3shop.link:25461/admin/admin/657
-#EXTINF:-1 tvg-id="" tvg-name="广水新闻综合" tvg-logo="http://ku.90sjimg.com/element_pic/17/12/31/2ec189f5167bd017e47acd441800487b.jpg" group-title="China",广水新闻综合
-http://3shop.link:25461/admin/admin/665
-#EXTINF:-1 tvg-id="" tvg-name="广西旅游广播" tvg-logo="" group-title="China",广西旅游广播
-http://3shop.link:25461/admin/admin/671
-#EXTINF:-1 tvg-id="" tvg-name="延安1台" tvg-logo="http://static2.tvzhe.com/channel/logo/YA1.jpg" group-title="China",延安1台
-http://3shop.link:25461/admin/admin/674
 #EXTINF:-1 tvg-id="" tvg-name="开州生活频道" tvg-logo="" group-title="China",开州生活频道
 http://3shop.link:25461/admin/admin/682
 #EXTINF:-1 tvg-id="" tvg-name="开州综合频道" tvg-logo="" group-title="China",开州综合频道
@@ -914,8 +850,6 @@ http://3shop.link:25461/admin/admin/683
 http://3shop.link:25461/admin/admin/684
 #EXTINF:-1 tvg-id="" tvg-name="张家口手机台" tvg-logo="" group-title="China",张家口手机台
 http://3shop.link:25461/admin/admin/685
-#EXTINF:-1 tvg-id="" tvg-name="德兴新闻综合" tvg-logo="" group-title="China",德兴新闻综合
-http://3shop.link:25461/admin/admin/691
 #EXTINF:-1 tvg-id="" tvg-name="心约之声公益广播" tvg-logo="" group-title="China",心约之声公益广播
 http://3shop.link:25461/admin/admin/702
 #EXTINF:-1 tvg-id="" tvg-name="忠县" tvg-logo="" group-title="China",忠县
@@ -924,28 +858,12 @@ http://3shop.link:25461/admin/admin/703
 http://3shop.link:25461/admin/admin/704
 #EXTINF:-1 tvg-id="" tvg-name="忠县综合频道" tvg-logo="" group-title="China",忠县综合频道
 http://3shop.link:25461/admin/admin/705
-#EXTINF:-1 tvg-id="" tvg-name="恩施公共频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/enshi.jpg" group-title="China",恩施公共频道
-http://3shop.link:25461/admin/admin/708
-#EXTINF:-1 tvg-id="" tvg-name="恩施新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/enshi.jpg" group-title="China",恩施新闻综合
-http://3shop.link:25461/admin/admin/709
 #EXTINF:-1 tvg-id="" tvg-name="惠州新闻综合" tvg-logo="http://www.tvyan.com/uploads/dianshi/hztv1.jpg" group-title="China",惠州新闻综合
 http://3shop.link:25461/admin/admin/710
-#EXTINF:-1 tvg-id="" tvg-name="抚州公共频道" tvg-logo="" group-title="China",抚州公共频道
-http://3shop.link:25461/admin/admin/711
-#EXTINF:-1 tvg-id="" tvg-name="敦煌电视台" tvg-logo="http://www.tvyan.com/uploads/dianshi/dunhuangtai.jpg" group-title="China",敦煌电视台
-http://3shop.link:25461/admin/admin/713
 #EXTINF:-1 tvg-id="" tvg-name="新唐人-美西频道" tvg-logo="" group-title="China",新唐人-美西频道
 http://3shop.link:25461/admin/admin/715
 #EXTINF:-1 tvg-id="" tvg-name="新泰乡村党建" tvg-logo="" group-title="China",新泰乡村党建
 http://3shop.link:25461/admin/admin/724
-#EXTINF:-1 tvg-id="" tvg-name="新疆哈萨克语广播" tvg-logo="" group-title="China",新疆哈萨克语广播
-http://3shop.link:25461/admin/admin/731
-#EXTINF:-1 tvg-id="" tvg-name="新疆柯尔克孜语广播" tvg-logo="" group-title="China",新疆柯尔克孜语广播
-http://3shop.link:25461/admin/admin/732
-#EXTINF:-1 tvg-id="" tvg-name="新疆维吾尔语交通文艺广播" tvg-logo="" group-title="China",新疆维吾尔语交通文艺广播
-http://3shop.link:25461/admin/admin/733
-#EXTINF:-1 tvg-id="" tvg-name="新疆维吾尔语综合广播" tvg-logo="" group-title="China",新疆维吾尔语综合广播
-http://3shop.link:25461/admin/admin/734
 #EXTINF:-1 tvg-id="" tvg-name="日照公共" tvg-logo="http://www.tvyan.com/uploads/dianshi/rzggpd.jpg" group-title="China",日照公共
 http://3shop.link:25461/admin/admin/738
 #EXTINF:-1 tvg-id="" tvg-name="昭化综合频道" tvg-logo="" group-title="China",昭化综合频道
