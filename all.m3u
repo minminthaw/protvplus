@@ -1581,7 +1581,14 @@ http://3shop.link:25461/movie/admin/admin/1196.mp4
 
 ######################################################################  Movie - Latest Added#####################################################################################
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Inhuman Kiss (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x1IrVoc9Q7Hn6NKP4jq77jN1cUU.jpg" group-title="Movie-Latest Added",Inhuman Kiss (2019)
+http://3shop.link:25461/movie/admin/admin/1433.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji: The Next Level (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jyw8VKYEiM1UDzPB7NsisUgBeJ8.jpg" group-title="Movie-Latest Added",Jumanji: The Next Level (2019)
+http://3shop.link:25461/movie/admin/admin/1434.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Jumanji (1995)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vgpXmVaVyUL7GGiDeiK1mKEKzcX.jpg" group-title="Movie-Latest Added",Jumanji (1995)
+http://3shop.link:25461/movie/admin/admin/1435.mp4
+#EXTINF:-1 tvg-id="" tvg-name="In the Shadow of the Moon (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5DSVYlKwEzGBxTkS95L73c3oxLs.jpg" group-title="Movie-Latest Added",In the Shadow of the Moon (2019)
+http://3shop.link:25461/movie/admin/admin/1436.mp4
 #EXTINF:-1 tvg-id="" tvg-name="12SuicidalTeens-2019" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7bsLSuEg3FuCY1o7uSzbxMUJLB.jpg" group-title="Movie-Latest Added",12SuicidalTeens-2019
 http://3shop.link:25461/movie/admin/admin/168.mp4
 #EXTINF:-1 tvg-id="" tvg-name="300RiseOfAnEmpire-2014" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7bsLSuEg3FuCY1o7uSzbxMUJLB.jpg" group-title="Movie-Latest Added",300RiseOfAnEmpire-2014
