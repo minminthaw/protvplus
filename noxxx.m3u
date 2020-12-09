@@ -429,8 +429,6 @@ http://3shop.link:25461/admin/admin/258
 http://3shop.link:25461/admin/admin/269
 #EXTINF:-1 tvg-id="" tvg-name="Talking Tom" tvg-logo="" group-title="Kids",Talking Tom
 http://3shop.link:25461/admin/admin/270
-#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="" group-title="Kids",Aniplus
-http://3shop.link:25461/admin/admin/1397
 #EXTINF:-1 tvg-id="" tvg-name="TVO Kids" tvg-logo="" group-title="Kids",TVO Kids
 http://3shop.link:25461/admin/admin/1394
 
@@ -452,8 +450,7 @@ http://3shop.link:25461/admin/admin/1384
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Wow Cinema" tvg-logo="" group-title="Movies",Wow Cinema
 http://3shop.link:25461/admin/admin/937
-#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="" group-title="Movies",Cinema World
-http://3shop.link:25461/admin/admin/1396
+
 #EXTINF:-1 tvg-id="" tvg-name="IN: Movies Now" tvg-logo="" group-title="Movies",IN: Movies Now
 http://3shop.link:25461/admin/admin/18
 #EXTINF:-1 tvg-id="" tvg-name="Sony TV HD" tvg-logo="" group-title="Movies",Sony TV HD
@@ -562,8 +559,7 @@ http://3shop.link:25461/admin/admin/29
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild(Thai)" tvg-logo="" group-title="Entertainment",Nat Geo Wild(Thai)
 https://www.livedoomovie.com/02_NatGeoWild_TH_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Egg Network" tvg-logo="" group-title="Entertainment",Egg Network
-http://3shop.link:25461/admin/admin/1398
+
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV 5+" tvg-logo="" group-title="Entertainment",CCTV 5+
 http://3shop.link:25461/admin/admin/30
@@ -670,8 +666,6 @@ http://3shop.link:25461/admin/admin/213
 
 
 ###################################################################### Thailand #####################################################################################
-#EXTINF:-1 tvg-id="" tvg-name="Thairath TV 32 HD" tvg-logo="" group-title="Thailand",Thairath TV 32 HD
-http://3shop.link:25461/admin/admin/1404
 #EXTINF:-1 tvg-id="" tvg-name="8 HD" tvg-logo="" group-title="Thailand",8 HD
 https://www.livedoomovie.com/02_8HD_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Channel 8 Thailand" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" group-title="Thailand",Channel 8 Thailand
