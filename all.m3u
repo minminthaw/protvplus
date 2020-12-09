@@ -204,8 +204,6 @@ http://3shop.link:25461/admin/admin/21
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 8 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 8 HD
 http://3shop.link:25461/admin/admin/26
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sport Select 1 HD" tvg-logo="" group-title="All Sports",Star Sport Select 1 HD
-http://3shop.link:25461/admin/admin/1422
 #EXTINF:-1 tvg-id="" tvg-name="Star Sport Select 2 HD" tvg-logo="" group-title="All Sports",Star Sport Select 2 HD
 http://3shop.link:25461/admin/admin/1423
 
@@ -290,8 +288,6 @@ https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
 http://3shop.link:25461/admin/admin/294
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 2" tvg-logo="" group-title="All Sports",RMC Sport 2
 http://3shop.link:25461/admin/admin/295
-#EXTINF:-1 tvg-id="" tvg-name="RMC Sport 4" tvg-logo="" group-title="All Sports",RMC Sport 4
-http://3shop.link:25461/admin/admin/297
 
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 1 HD" tvg-logo="" group-title="All Sports",Sony Ten 1 HD
 http://3shop.link:25461/admin/admin/15
@@ -608,8 +604,6 @@ http://3shop.link:25461/admin/admin/237
 http://3shop.link:25461/admin/admin/238
 #EXTINF:-1 tvg-id="" tvg-name="KPlus" tvg-logo="" group-title="Entertainment",KPlus
 http://3shop.link:25461/admin/admin/240
-#EXTINF:-1 tvg-id="" tvg-name="India: Zee Tamil" tvg-logo="" group-title="Entertainment",India: Zee Tamil
-http://3shop.link:25461/admin/admin/241
 #EXTINF:-1 tvg-id="" tvg-name="MBC Max HD" tvg-logo="" group-title="Entertainment",MBC Max HD
 http://3shop.link:25461/admin/admin/249
 #EXTINF:-1 tvg-id="" tvg-name="Colors HD" tvg-logo="" group-title="Entertainment",Colors HD
@@ -902,9 +896,6 @@ http://3shop.link:25461/admin/admin/744
 http://3shop.link:25461/admin/admin/254
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="News",Bloomberg
 http://3shop.link:25461/admin/admin/264
-#EXTINF:-1 tvg-id="" tvg-name="Sky News" tvg-logo="" group-title="News",Sky News
-http://3shop.link:25461/admin/admin/267
-
 ######################################################################################## USA Channels ###################################################################
 #EXTINF:-1 tvg-id="" tvg-name="American Horror" tvg-logo="" group-title="USA",American Horror
 http://3shop.link:25461/admin/admin/1210
