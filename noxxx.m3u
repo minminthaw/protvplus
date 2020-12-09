@@ -87,9 +87,6 @@ http://3shop.link:25461/admin/admin/21
 #EXTINF:-1 tvg-id="" tvg-name="AR: Bein Sport 8 HD" tvg-logo="" group-title="All Sports",AR: Bein Sport 8 HD
 http://3shop.link:25461/admin/admin/26
 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sport Select 2 HD" tvg-logo="" group-title="All Sports",Star Sport Select 2 HD
-http://3shop.link:25461/admin/admin/1423
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport 1" tvg-logo="" group-title="All Sports",Sky Sport 1
 http://3shop.link:25461/admin/admin/1198
@@ -430,8 +427,6 @@ http://3shop.link:25461/admin/admin/1395
 http://3shop.link:25461/admin/admin/938
 #EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="" group-title="Entertainment",WWE Network
 http://3shop.link:25461/admin/admin/19
-#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="Entertainment",Animal Planet
-http://3shop.link:25461/admin/admin/28
 #EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="Entertainment",Nat Geo Wild
 http://3shop.link:25461/admin/admin/29
 
