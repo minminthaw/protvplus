@@ -1429,7 +1429,8 @@ http://3shop.link:25461/movie/admin/admin/957.mp4
 http://3shop.link:25461/movie/admin/admin/958.mp4
 
 ############################################################################################## Movie - Latest Added ##############################################################################################
-
+#EXTINF:-1 tvg-id="" tvg-name="6 Underground (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="Movie-Latest Added",6 Underground (2019)
+http://3shop.link:25461/movie/admin/admin/2159.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Peninsula (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sy6DvAu72kjoseZEjocnm2ZZ09i.jpg" group-title="Movie-Latest Added",Peninsula (2020)
 http://3shop.link:25461/movie/admin/admin/1505.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Impetigore (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dku2KnAPALsi69MnvTV7cXrylWm.jpg" group-title="Movie-Latest Added",Impetigore (2019)
